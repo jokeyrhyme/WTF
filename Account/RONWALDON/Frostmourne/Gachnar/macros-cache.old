@@ -1,0 +1,5 @@
+MACRO 16777217 "Holy Word" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcast
+/cast Holy Word: Chastise
+END

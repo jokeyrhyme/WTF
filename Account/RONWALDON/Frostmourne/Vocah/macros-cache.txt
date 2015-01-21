@@ -1,0 +1,37 @@
+VER 3 0100000000000005 "AMS||Z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Anti-Magic Zone; Anti-Magic Shell
+END
+VER 3 0100000000000006 "DC" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Coil
+/console Sound_EnableSFX 0 
+/cast Dark Transformation
+/console Sound_EnableSFX 1
+/cast Death Coil
+/script UIErrorsFrame:Clear()
+/script UIErrorsFrame:Show()
+END
+VER 3 0100000000000007 "DC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Dark Transformation; Death Coil
+END
+VER 3 0100000000000001 "Disease" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl] Pestilence; [mod] Unholy Blight; Outbreak
+END
+VER 3 0100000000000002 "Disease" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Icy Touch; Plague Strike
+END
+VER 3 0100000000000004 "Pop" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Empower Rune Weapon; Summon Gargoyle
+END
+VER 3 0100000000000008 "Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Death Strike; Festering Strike
+END
+VER 3 0100000000000003 "Unholy" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Death and Decay; Scourge Strike
+END

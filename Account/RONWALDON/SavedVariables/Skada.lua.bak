@@ -1,0 +1,42 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Shantou - Frostmourne"] = "Default",
+		["Hoffryn - Frostmourne"] = "Default",
+		["Vocah - Frostmourne"] = "Default",
+		["Denisof - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["showtotals"] = true,
+			["modulesBlocked"] = {
+				["Threat"] = true,
+			},
+			["modules"] = {
+				["ccignoremaintanks"] = true,
+			},
+			["windows"] = {
+				{
+					["y"] = -42.0001831054688,
+					["barfont"] = "Arial Narrow",
+					["title"] = {
+						["font"] = "Arial Narrow",
+					},
+					["point"] = "TOP",
+					["mode"] = "DPS",
+					["x"] = -337.000350952148,
+				}, -- [1]
+			},
+			["columns"] = {
+				["Threat_TPS"] = true,
+			},
+			["setstokeep"] = 5,
+			["hidecombat"] = true,
+		},
+	},
+}

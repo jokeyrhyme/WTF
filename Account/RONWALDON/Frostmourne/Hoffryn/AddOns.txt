@@ -1,0 +1,6 @@
+Enchantrix: disabled
+Enchantrix-Barker: disabled
+PitBull4_ReputationBar: disabled
+PitBull4_Sounds: disabled
+PitBull4_DogTagTexts: disabled
+PitBull4_ExperienceBar: disabled

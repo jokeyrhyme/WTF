@@ -1,0 +1,37 @@
+MACRO 16777221 "AMS||Z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Anti-Magic Zone; Anti-Magic Shell
+END
+MACRO 16777222 "DC" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Coil
+/console Sound_EnableSFX 0 
+/cast Dark Transformation
+/console Sound_EnableSFX 1
+/cast Death Coil
+/script UIErrorsFrame:Clear()
+/script UIErrorsFrame:Show()
+END
+MACRO 16777223 "DC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Dark Transformation; Death Coil
+END
+MACRO 16777218 "Disease" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Icy Touch; Plague Strike
+END
+MACRO 16777217 "Disease" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl] Pestilence; [mod] Unholy Blight; Outbreak
+END
+MACRO 16777220 "Pop" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Empower Rune Weapon; Summon Gargoyle
+END
+MACRO 16777224 "Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Death Strike; Festering Strike
+END
+MACRO 16777219 "Unholy" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Death and Decay; Scourge Strike
+END

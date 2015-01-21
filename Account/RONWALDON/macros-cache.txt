@@ -1,0 +1,55 @@
+VER 3 000000000000001A "Archeology" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod] Archaeology; Survey
+END
+VER 3 0000000000000019 "Cluck" "INV_Misc_QuestionMark"
+/cluck
+END
+VER 3 0000000000000011 "Device" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod] 15; [equipped:Fishing Pole, nocombat] Fishing; 6
+END
+VER 3 000000000000001B "Goblin" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod][noharm] Rocket Jump; Rocket Barrage
+END
+VER 3 0000000000000002 "Main" "INV_Misc_QuestionMark"
+#showtooltip
+/use 16
+END
+VER 3 0000000000000017 "Pester" "INV_Misc_QuestionMark"
+/w Cloria tell Naboo to make me dinner, no returns
+/w Gadiyus tell Naboo to make me dinner, no returnss
+END
+VER 3 0000000000000018 "Ranged" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [equipped:Thrown] Throw; Shoot
+END
+VER 3 0000000000000014 "Rare-GrizzlyHill" "INV_Misc_QuestionMark"
+/tar Grocklar
+/tar Seething Hate
+/tar Syreian the Bonecarver
+END
+VER 3 000000000000000B "Rare-StormPeaks" "INV_Misc_QuestionMark"
+/tar Dirkee
+/tar Time
+/tar Ver
+END
+VER 3 0000000000000013 "Stopwatch" "INV_Misc_QuestionMark"
+/stopwatch
+/run Stopwatch_Play()
+END
+VER 3 0000000000000004 "T1" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 13
+END
+VER 3 0000000000000005 "T2" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 14
+END
+VER 3 0000000000000001 "Vashj" "INV_Misc_QuestionMark"
+#showtooltip Tainted Core
+/use Tainted Core
+/y <<< Tainted Core to %t >>>
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+END

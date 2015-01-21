@@ -1,0 +1,58 @@
+VER 3 0100000000000011 "Buff+" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Tiger Palm; Blackout Kick
+END
+VER 3 0100000000000018 "Expel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Expel Harm
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Energizing Brew
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+END
+VER 3 0100000000000017 "Jab" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Jab
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Energizing Brew
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+END
+VER 3 010000000000000A "Kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Blackout Kick; Rising Sun Kick
+END
+VER 3 0100000000000016 "Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip Renewing Mist
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Thunder Focus Tea
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Renewing Mist
+END
+VER 3 0100000000000019 "Spin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Spinning Crane Kick
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Energizing Brew
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+END
+VER 3 0100000000000015 "Surge" "INV_MISC_QUESTIONMARK"
+#showtooltip Surging Mist
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Thunder Focus Tea
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Surging Mist
+END
+VER 3 0100000000000013 "Taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Provoke
+/target Black Ox Statue
+/cast Provoke
+END

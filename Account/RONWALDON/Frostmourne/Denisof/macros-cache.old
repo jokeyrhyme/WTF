@@ -1,0 +1,8 @@
+VER 3 0100000000000001 "Finish" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Eviscerate; Rupture
+END
+VER 3 0100000000000002 "Pocket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [combat] Vanish; Pick Pocket
+END
