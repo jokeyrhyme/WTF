@@ -10,8 +10,9 @@ DominosDB = {
 	},
 	["profiles"] = {
 		["Druid"] = {
-			["showgrid"] = false,
 			["linkedOpacity"] = true,
+			["useOverrideUI"] = false,
+			["showgrid"] = false,
 			["frames"] = {
 				{
 					["showInPetBattleUI"] = false,
@@ -20,7 +21,7 @@ DominosDB = {
 					["y"] = 14,
 					["padW"] = 2,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "xpTC",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -41,7 +42,7 @@ DominosDB = {
 							["page6"] = 5,
 						},
 					},
-					["anchor"] = "xpTC",
+					["padH"] = 2,
 				}, -- [1]
 				{
 					["showInPetBattleUI"] = false,
@@ -50,7 +51,7 @@ DominosDB = {
 					["y"] = 54,
 					["padW"] = 2,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "1TC",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -58,17 +59,17 @@ DominosDB = {
 						["DRUID"] = {
 						},
 					},
-					["anchor"] = "1TC",
+					["padH"] = 2,
 				}, -- [2]
 				{
 					["showInPetBattleUI"] = false,
 					["columns"] = 1,
 					["showInOverrideUI"] = false,
 					["padW"] = 2,
-					["anchor"] = "menuTR",
+					["padH"] = 2,
 					["numButtons"] = 12,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "menuTR",
 					["y"] = 52,
 					["pages"] = {
 						["MONK"] = {
@@ -86,7 +87,7 @@ DominosDB = {
 					["padW"] = 2,
 					["y"] = 190,
 					["spacing"] = 4,
-					["anchor"] = "5BL",
+					["padH"] = 2,
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -94,7 +95,7 @@ DominosDB = {
 						["DRUID"] = {
 						},
 					},
-					["padH"] = 2,
+					["anchor"] = "5BL",
 				}, -- [4]
 				{
 					["showInPetBattleUI"] = false,
@@ -104,7 +105,7 @@ DominosDB = {
 					["padW"] = 2,
 					["y"] = -200,
 					["spacing"] = 4,
-					["anchor"] = "6BL",
+					["padH"] = 2,
 					["pages"] = {
 						["MONK"] = {
 						},
@@ -112,7 +113,7 @@ DominosDB = {
 						},
 					},
 					["numButtons"] = 12,
-					["padH"] = 2,
+					["anchor"] = "6BL",
 				}, -- [5]
 				{
 					["showInPetBattleUI"] = false,
@@ -122,7 +123,7 @@ DominosDB = {
 					["padW"] = 2,
 					["y"] = -160,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "7BC",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -130,7 +131,7 @@ DominosDB = {
 						["DRUID"] = {
 						},
 					},
-					["anchor"] = "7BC",
+					["padH"] = 2,
 				}, -- [6]
 				{
 					["showInPetBattleUI"] = false,
@@ -140,7 +141,7 @@ DominosDB = {
 					["padW"] = 2,
 					["y"] = -120,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "8BC",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -148,7 +149,7 @@ DominosDB = {
 						["DRUID"] = {
 						},
 					},
-					["anchor"] = "8BC",
+					["padH"] = 2,
 				}, -- [7]
 				{
 					["showInPetBattleUI"] = false,
@@ -158,7 +159,7 @@ DominosDB = {
 					["padW"] = 2,
 					["y"] = -80,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "9BC",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -166,7 +167,7 @@ DominosDB = {
 						["DRUID"] = {
 						},
 					},
-					["anchor"] = "9BC",
+					["padH"] = 2,
 				}, -- [8]
 				{
 					["showInPetBattleUI"] = false,
@@ -176,7 +177,7 @@ DominosDB = {
 					["padW"] = 2,
 					["y"] = -40,
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "10BL",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
@@ -184,7 +185,7 @@ DominosDB = {
 						["DRUID"] = {
 						},
 					},
-					["anchor"] = "10BL",
+					["padH"] = 2,
 				}, -- [9]
 				{
 					["showInPetBattleUI"] = false,
@@ -237,18 +238,18 @@ DominosDB = {
 					["showText"] = true,
 					["anchor"] = "vehicleTC",
 					["padding"] = 0,
-					["height"] = 8,
 					["SetBlizzBorder"] = 1,
+					["height"] = 8,
 				},
 				["roll"] = {
 					["showInPetBattleUI"] = true,
 					["x"] = -40,
-					["columns"] = 1,
+					["point"] = "BOTTOMRIGHT",
 					["spacing"] = 2,
 					["anchor"] = "3LB",
 					["showInOverrideUI"] = true,
+					["columns"] = 1,
 					["y"] = 52,
-					["point"] = "BOTTOMRIGHT",
 				},
 				["extra"] = {
 					["y"] = 124,
@@ -290,17 +291,11 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 				},
 			},
-			["useOverrideUI"] = false,
 			["minimap"] = {
 				["hide"] = true,
 			},
 		},
 		["Monk"] = {
-			["showgrid"] = false,
-			["useOverrideUI"] = false,
-			["minimap"] = {
-				["hide"] = true,
-			},
 			["linkedOpacity"] = true,
 			["frames"] = {
 				{
@@ -308,9 +303,9 @@ DominosDB = {
 					["point"] = "BOTTOM",
 					["showInOverrideUI"] = false,
 					["padW"] = 2,
-					["padH"] = 2,
-					["spacing"] = 4,
 					["anchor"] = "xpTC",
+					["spacing"] = 4,
+					["padH"] = 2,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
 							["page2"] = 1,
@@ -328,9 +323,9 @@ DominosDB = {
 						},
 						["ROGUE"] = {
 							["alt"] = 3,
-							["page2"] = 1,
 							["ctrl"] = 3,
 							["shadowdance"] = 6,
+							["page2"] = 1,
 							["shift"] = 3,
 							["page5"] = 4,
 							["page4"] = 3,
@@ -361,9 +356,9 @@ DominosDB = {
 					["point"] = "BOTTOM",
 					["showInOverrideUI"] = false,
 					["padW"] = 2,
-					["padH"] = 2,
-					["spacing"] = 4,
 					["anchor"] = "1TC",
+					["spacing"] = 4,
+					["padH"] = 2,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
 						},
@@ -398,10 +393,10 @@ DominosDB = {
 						},
 					},
 					["spacing"] = 4,
-					["padH"] = 2,
+					["anchor"] = "menuTR",
 					["y"] = 52,
 					["numButtons"] = 12,
-					["anchor"] = "menuTR",
+					["padH"] = 2,
 				}, -- [3]
 				{
 					["showInPetBattleUI"] = false,
@@ -434,9 +429,9 @@ DominosDB = {
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
 					["padW"] = 2,
-					["anchor"] = "6BL",
-					["spacing"] = 4,
 					["padH"] = 2,
+					["spacing"] = 4,
+					["anchor"] = "6BL",
 					["numButtons"] = 12,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
@@ -458,9 +453,9 @@ DominosDB = {
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
 					["padW"] = 2,
-					["padH"] = 2,
-					["spacing"] = 4,
 					["anchor"] = "7BC",
+					["spacing"] = 4,
+					["padH"] = 2,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
 						},
@@ -482,9 +477,9 @@ DominosDB = {
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
 					["padW"] = 2,
-					["padH"] = 2,
-					["spacing"] = 4,
 					["anchor"] = "8BC",
+					["spacing"] = 4,
+					["padH"] = 2,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
 						},
@@ -506,9 +501,9 @@ DominosDB = {
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
 					["padW"] = 2,
-					["padH"] = 2,
-					["spacing"] = 4,
 					["anchor"] = "9BC",
+					["spacing"] = 4,
+					["padH"] = 2,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
 						},
@@ -530,9 +525,9 @@ DominosDB = {
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
 					["padW"] = 2,
-					["padH"] = 2,
-					["spacing"] = 4,
 					["anchor"] = "10BL",
+					["spacing"] = 4,
+					["padH"] = 2,
 					["pages"] = {
 						["DEATHKNIGHT"] = {
 						},
@@ -603,10 +598,10 @@ DominosDB = {
 					["width"] = 28,
 					["y"] = 208,
 					["showText"] = true,
-					["SetBlizzBorder"] = 1,
 					["anchor"] = "vehicleTC",
-					["padding"] = 0,
 					["height"] = 8,
+					["padding"] = 0,
+					["SetBlizzBorder"] = 1,
 				},
 				["menu"] = {
 					["y"] = 14,
@@ -621,7 +616,7 @@ DominosDB = {
 					["spacing"] = 2,
 					["anchor"] = "2TC",
 					["showInOverrideUI"] = false,
-					["numButtons"] = 2,
+					["numButtons"] = 1,
 					["showInPetBattleUI"] = false,
 				},
 				["pet"] = {
@@ -642,13 +637,13 @@ DominosDB = {
 				},
 				["roll"] = {
 					["showInPetBattleUI"] = true,
-					["columns"] = 1,
+					["point"] = "BOTTOMRIGHT",
 					["showInOverrideUI"] = true,
 					["y"] = 52,
 					["x"] = -40,
 					["spacing"] = 2,
 					["anchor"] = "3LB",
-					["point"] = "BOTTOMRIGHT",
+					["columns"] = 1,
 				},
 				["encounter"] = {
 					["showInPetBattleUI"] = true,
@@ -659,6 +654,11 @@ DominosDB = {
 					["y"] = 44,
 				},
 			},
+			["minimap"] = {
+				["hide"] = true,
+			},
+			["showgrid"] = false,
+			["useOverrideUI"] = false,
 		},
 	},
 }

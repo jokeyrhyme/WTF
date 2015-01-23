@@ -6,6 +6,7 @@ SkadaDB = {
 	},
 	["hasUpgraded"] = true,
 	["profileKeys"] = {
+		["Cervus - Frostmourne"] = "Default",
 		["Denisof - Frostmourne"] = "Default",
 		["Hoffryn - Frostmourne"] = "Default",
 		["Vocah - Frostmourne"] = "Default",
@@ -23,12 +24,12 @@ SkadaDB = {
 			["windows"] = {
 				{
 					["hidden"] = true,
-					["y"] = -42.0001831054688,
-					["x"] = -337.000305175781,
+					["y"] = -15.0001220703125,
+					["x"] = 295.999694824219,
 					["title"] = {
 						["font"] = "Arial Narrow",
 					},
-					["point"] = "TOP",
+					["point"] = "TOPLEFT",
 					["mode"] = "Damage",
 					["barfont"] = "Arial Narrow",
 				}, -- [1]

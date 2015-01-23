@@ -490,7 +490,19 @@ PitBull4DB = {
 		},
 		["Runes"] = {
 		},
-		["Background"] = {
+		["DruidManaBar"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Normal"] = {
+							["enabled"] = false,
+						},
+						["Secondary"] = {
+							["enabled"] = false,
+						},
+					},
+				},
+			},
 		},
 		["PowerBar"] = {
 		},
@@ -593,6 +605,18 @@ PitBull4DB = {
 			},
 		},
 		["AltPowerBar"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Normal"] = {
+							["enabled"] = false,
+						},
+						["Secondary"] = {
+							["enabled"] = false,
+						},
+					},
+				},
+			},
 		},
 		["BlankSpace"] = {
 			["profiles"] = {
@@ -632,19 +656,7 @@ PitBull4DB = {
 				},
 			},
 		},
-		["DruidManaBar"] = {
-			["profiles"] = {
-				["Default"] = {
-					["layouts"] = {
-						["Normal"] = {
-							["enabled"] = false,
-						},
-						["Secondary"] = {
-							["enabled"] = false,
-						},
-					},
-				},
-			},
+		["Background"] = {
 		},
 		["CastBarLatency"] = {
 		},

@@ -142,19 +142,7 @@ PitBull4DB = {
 		},
 		["BurningEmbers"] = {
 		},
-		["DruidManaBar"] = {
-			["profiles"] = {
-				["Default"] = {
-					["layouts"] = {
-						["Normal"] = {
-							["enabled"] = false,
-						},
-						["Secondary"] = {
-							["enabled"] = false,
-						},
-					},
-				},
-			},
+		["Background"] = {
 		},
 		["Aura"] = {
 		},
@@ -169,7 +157,19 @@ PitBull4DB = {
 				},
 			},
 		},
-		["Background"] = {
+		["DruidManaBar"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Normal"] = {
+							["enabled"] = false,
+						},
+						["Secondary"] = {
+							["enabled"] = false,
+						},
+					},
+				},
+			},
 		},
 		["PowerBar"] = {
 		},
@@ -263,6 +263,18 @@ PitBull4DB = {
 			},
 		},
 		["AltPowerBar"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Normal"] = {
+							["enabled"] = false,
+						},
+						["Secondary"] = {
+							["enabled"] = false,
+						},
+					},
+				},
+			},
 		},
 		["BlankSpace"] = {
 			["profiles"] = {
