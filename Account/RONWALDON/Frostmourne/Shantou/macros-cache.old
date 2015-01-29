@@ -33,6 +33,15 @@ VER 3 0100000000000016 "Renew" "INV_MISC_QUESTIONMARK"
 /run SetCVar("Sound_EnableSFX",sfx);
 /cast Renewing Mist
 END
+VER 3 0100000000000019 "Spin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Spinning Crane Kick
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Energizing Brew
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+END
 VER 3 0100000000000015 "Surge" "INV_MISC_QUESTIONMARK"
 #showtooltip Surging Mist
 /run sfx=GetCVar("Sound_EnableSFX");

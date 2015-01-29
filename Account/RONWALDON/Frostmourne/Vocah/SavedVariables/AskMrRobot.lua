@@ -49,20 +49,15 @@ AmrDb = {
 		[398] = 5,
 		[384] = 10,
 		[515] = 101,
-		[-1] = 0,
-		[241] = 49,
+		[397] = 11,
 		[391] = 76,
+		[-1] = 0,
 		[392] = 2016,
 		[393] = 4,
 		[394] = 42,
-		[397] = 11,
+		[241] = 49,
 	},
-	["Glyphs"] = {
-		{
-		}, -- [1]
-		{
-		}, -- [2]
-	},
+	["Class"] = "DEATHKNIGHT",
 	["LogData"] = {
 		["_wipes"] = {
 		},
@@ -70,13 +65,12 @@ AmrDb = {
 			[1228] = "disabled",
 			[1205] = "disabled",
 		},
-		["_lastDiff"] = 0,
 		["_lastZone"] = "Eastern Kingdoms",
+		["_lastDiff"] = 0,
 	},
 	["BagItems"] = {
 	},
-	["BankItems"] = {
-	},
+	["RealmName"] = "Frostmourne",
 	["LastCharacterImport"] = "",
 	["Reps"] = {
 		[1269] = 3,
@@ -85,15 +79,21 @@ AmrDb = {
 		[1375] = 0,
 		[1387] = 4,
 		[1376] = 3,
-		[1270] = 3,
-		[1388] = 0,
 		[1435] = 3,
+		[1388] = 0,
+		[1270] = 3,
 	},
 	["Faction"] = "Alliance",
 	["IconInfo"] = {
 	},
 	["Professions"] = {
 	},
-	["RealmName"] = "Frostmourne",
-	["Class"] = "DEATHKNIGHT",
+	["BankItems"] = {
+	},
+	["Glyphs"] = {
+		{
+		}, -- [1]
+		{
+		}, -- [2]
+	},
 }

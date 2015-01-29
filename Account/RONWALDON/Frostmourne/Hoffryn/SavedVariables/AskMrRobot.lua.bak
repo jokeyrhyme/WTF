@@ -42,8 +42,7 @@ AmrDb = {
 	["Region"] = "US",
 	["Currencies"] = {
 	},
-	["Glyphs"] = {
-	},
+	["Class"] = "WARLOCK",
 	["LogData"] = {
 		["_wipes"] = {
 		},
@@ -51,13 +50,12 @@ AmrDb = {
 			[1228] = "disabled",
 			[1205] = "disabled",
 		},
-		["_lastDiff"] = 0,
 		["_lastZone"] = "Eastern Kingdoms",
+		["_lastDiff"] = 0,
 	},
 	["BagItems"] = {
 	},
-	["BankItems"] = {
-	},
+	["RealmName"] = "Frostmourne",
 	["LastCharacterImport"] = "",
 	["Reps"] = {
 	},
@@ -66,6 +64,8 @@ AmrDb = {
 	},
 	["Professions"] = {
 	},
-	["RealmName"] = "Frostmourne",
-	["Class"] = "WARLOCK",
+	["BankItems"] = {
+	},
+	["Glyphs"] = {
+	},
 }

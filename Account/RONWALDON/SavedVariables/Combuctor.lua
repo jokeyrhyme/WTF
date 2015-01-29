@@ -1,17 +1,17 @@
 
 CombuctorVersion = nil
 CombuctorDB2 = {
-	["version"] = "6.0.5",
 	["global"] = {
 	},
+	["version"] = "6.0.5",
 	["profiles"] = {
 		["Cervus - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
-				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
+				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -43,10 +43,10 @@ CombuctorDB2 = {
 		["Corsheth - Barthilas"] = {
 			["inventory"] = {
 				["h"] = 512,
-				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
+				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -78,10 +78,10 @@ CombuctorDB2 = {
 		["Vocah - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
+				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
-				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -113,10 +113,10 @@ CombuctorDB2 = {
 		["Gachnar - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
+				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
-				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -145,7 +145,7 @@ CombuctorDB2 = {
 				},
 			},
 		},
-		["Denisof - Frostmourne"] = {
+		["Gleaves - Barthilas"] = {
 			["inventory"] = {
 				["h"] = 512,
 				["showBags"] = false,
@@ -160,7 +160,7 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
@@ -183,10 +183,10 @@ CombuctorDB2 = {
 		["Taraka - Barthilas"] = {
 			["inventory"] = {
 				["h"] = 512,
+				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
-				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -218,10 +218,10 @@ CombuctorDB2 = {
 		["Shantou - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
+				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
-				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -253,10 +253,10 @@ CombuctorDB2 = {
 		["Hoffryn - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
+				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
-				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -288,10 +288,10 @@ CombuctorDB2 = {
 		["Gachnar - Barthilas"] = {
 			["inventory"] = {
 				["h"] = 512,
-				["showBags"] = false,
 				["position"] = {
 					"RIGHT", -- [1]
 				},
+				["showBags"] = false,
 				["exclude"] = {
 					["All"] = {
 						"All", -- [1]
@@ -320,7 +320,7 @@ CombuctorDB2 = {
 				},
 			},
 		},
-		["Gleaves - Barthilas"] = {
+		["Denisof - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
 				["position"] = {
@@ -335,7 +335,7 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384,
+				["w"] = 384.000061035156,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {

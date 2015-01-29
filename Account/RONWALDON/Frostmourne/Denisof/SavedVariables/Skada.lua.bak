@@ -5,6 +5,563 @@ SkadaPerCharDB = {
 			["healingabsorbed"] = 0,
 			["dispells"] = 0,
 			["ccbreaks"] = 0,
+			["time"] = 17,
+			["interrupts"] = 0,
+			["endtime"] = 1422169092,
+			["damage"] = 8076,
+			["players"] = {
+				{
+					["last"] = 1422169092,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+						["Firebrand Grunt"] = 8076,
+					},
+					["auras"] = {
+						["Agility"] = {
+							["name"] = "Agility",
+							["active"] = 0,
+							["id"] = 60233,
+							["auratype"] = "BUFF",
+							["uptime"] = 15,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 17,
+					["interrupts"] = 0,
+					["damage"] = 8076,
+					["damagespells"] = {
+						["Attack"] = {
+							["min"] = 8076,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 8076,
+							["damage"] = 8076,
+						},
+					},
+					["power"] = {
+						[4] = {
+							["amount"] = 1,
+							["spells"] = {
+								[51699] = 1,
+							},
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-3725-09C96965",
+					["first"] = 1422169075,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Denisof",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 24080,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Firebrand Grunt"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 8076,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 8076,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 8076,
+			["starttime"] = 1422169075,
+			["healing"] = 0,
+			["power"] = {
+				[4] = 1,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Firebrand Grunt",
+			["mobname"] = "Firebrand Grunt",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1422169075,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1422045858,
+			["damage"] = 55521,
+			["players"] = {
+				{
+					["last"] = 1422045856,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+						["Smolderthorn Headhunter"] = 18744,
+						["Smolderthorn Seer"] = 25967,
+						["Smolderthorn Witch Doctor"] = 10810,
+					},
+					["auras"] = {
+						["Agility"] = {
+							["name"] = "Agility",
+							["active"] = 1,
+							["id"] = 60233,
+							["auratype"] = "BUFF",
+							["uptime"] = 4,
+						},
+						["Subterfuge"] = {
+							["name"] = "Subterfuge",
+							["active"] = 0,
+							["id"] = 115192,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["damage"] = 55521,
+					["damagespells"] = {
+						["Fan of Knives"] = {
+							["min"] = 3089,
+							["multistrike"] = 1,
+							["critical"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 7,
+							["id"] = 51723,
+							["max"] = 6198,
+							["damage"] = 28032,
+						},
+						["Attack"] = {
+							["min"] = 8281,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 19208,
+							["damage"] = 27489,
+						},
+					},
+					["power"] = {
+						[4] = {
+							["amount"] = 4,
+							["spells"] = {
+								[139546] = 3,
+								[51699] = 1,
+							},
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-3725-09C96965",
+					["first"] = 1422045853,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Denisof",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 24080,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Smolderthorn Headhunter"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 18744,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 18744,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Smolderthorn Seer"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 25967,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 25967,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Smolderthorn Witch Doctor"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 10810,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 10810,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 55521,
+			["starttime"] = 1422045851,
+			["healing"] = 0,
+			["power"] = {
+				[4] = 4,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Smolderthorn Headhunter",
+			["mobname"] = "Smolderthorn Headhunter",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1422045851,
+			["mobdone"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1422045773,
+			["damage"] = 13084,
+			["players"] = {
+				{
+					["last"] = 1422045772,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+						["Bloodaxe Veteran"] = 13084,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["damage"] = 13084,
+					["damagespells"] = {
+						["Fan of Knives"] = {
+							["min"] = 3656,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 51723,
+							["max"] = 3656,
+							["damage"] = 3656,
+						},
+						["Attack"] = {
+							["min"] = 9428,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 9428,
+							["damage"] = 9428,
+						},
+					},
+					["power"] = {
+						[4] = {
+							["amount"] = 1,
+							["spells"] = {
+								[139546] = 1,
+							},
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-3725-09C96965",
+					["first"] = 1422045769,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Denisof",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 24080,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Bloodaxe Veteran"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 13084,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 13084,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 13084,
+			["starttime"] = 1422045766,
+			["healing"] = 0,
+			["power"] = {
+				[4] = 1,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Bloodaxe Veteran",
+			["mobname"] = "Bloodaxe Veteran",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1422045766,
+			["mobdone"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 26,
+			["interrupts"] = 0,
+			["endtime"] = 1422045583,
+			["gotboss"] = true,
+			["damage"] = 163198,
+			["players"] = {
+				{
+					["last"] = 1422045583,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+						["Spire Spider"] = 39575,
+						["Crystal Fang"] = 20598,
+						["Spire Spiderling"] = 103025,
+					},
+					["auras"] = {
+						["Shadowstep"] = {
+							["name"] = "Shadowstep",
+							["active"] = 0,
+							["id"] = 36554,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Subterfuge"] = {
+							["name"] = "Subterfuge",
+							["active"] = 0,
+							["id"] = 115192,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+						["Agility"] = {
+							["name"] = "Agility",
+							["active"] = 1,
+							["id"] = 60233,
+							["auratype"] = "BUFF",
+							["uptime"] = 4,
+						},
+						["Fatal Flaws"] = {
+							["name"] = "Fatal Flaws",
+							["active"] = 1,
+							["id"] = 71403,
+							["auratype"] = "BUFF",
+							["uptime"] = 4,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 22,
+					["interrupts"] = 0,
+					["damage"] = 163198,
+					["damagespells"] = {
+						["Fan of Knives"] = {
+							["min"] = 3068,
+							["multistrike"] = 1,
+							["critical"] = 6,
+							["hit"] = 25,
+							["totalhits"] = 31,
+							["id"] = 51723,
+							["max"] = 7364,
+							["damage"] = 131155,
+						},
+						["Attack"] = {
+							["min"] = 4575,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 9526,
+							["damage"] = 32043,
+						},
+					},
+					["power"] = {
+						[4] = {
+							["amount"] = 5,
+							["spells"] = {
+								[139546] = 3,
+								[51699] = 2,
+							},
+						},
+					},
+					["damagetaken"] = 40,
+					["shielding"] = 0,
+					["id"] = "Player-3725-09C96965",
+					["first"] = 1422045561,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 18,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 22,
+							["damage"] = 40,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Denisof",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 24080,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Spire Spider"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 39575,
+							["done"] = 40,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 40,
+					["taken"] = 39575,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Crystal Fang"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 20598,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 20598,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Spire Spiderling"] = {
+					["players"] = {
+						["Denisof"] = {
+							["taken"] = 103025,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 103025,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 163198,
+			["starttime"] = 1422045557,
+			["healing"] = 0,
+			["power"] = {
+				[4] = 5,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Crystal Fang",
+			["mobname"] = "Crystal Fang",
+			["damagetaken"] = 40,
+			["mobhdone"] = 0,
+			["last_action"] = 1422045557,
+			["mobdone"] = 40,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
 			["time"] = 8,
 			["interrupts"] = 0,
 			["endtime"] = 1421997819,
@@ -96,586 +653,15 @@ SkadaPerCharDB = {
 			["mobhdone"] = 0,
 			["last_action"] = 1421997811,
 			["mobdone"] = 0,
-		}, -- [1]
-		{
-			["healingabsorbed"] = 0,
-			["dispells"] = 0,
-			["ccbreaks"] = 0,
-			["time"] = 20,
-			["interrupts"] = 0,
-			["endtime"] = 1421997569,
-			["damage"] = 80735,
-			["players"] = {
-				{
-					["last"] = 1421997569,
-					["healingabsorbed"] = 0,
-					["class"] = "ROGUE",
-					["damaged"] = {
-						["Spire Spider"] = 25358,
-						["Spirestone Warlord"] = 11010,
-						["Spire Spiderling"] = 44367,
-					},
-					["auras"] = {
-						["Subterfuge"] = {
-							["name"] = "Subterfuge",
-							["active"] = 0,
-							["id"] = 115192,
-							["auratype"] = "BUFF",
-							["uptime"] = 3,
-						},
-						["Fatal Flaws"] = {
-							["name"] = "Fatal Flaws",
-							["active"] = 1,
-							["id"] = 71403,
-							["auratype"] = "BUFF",
-							["uptime"] = 6,
-						},
-						["Agility"] = {
-							["name"] = "Agility",
-							["active"] = 1,
-							["id"] = 60233,
-							["auratype"] = "BUFF",
-							["uptime"] = 6,
-						},
-					},
-					["role"] = "NONE",
-					["time"] = 19,
-					["interrupts"] = 0,
-					["damage"] = 80735,
-					["damagespells"] = {
-						["Fan of Knives"] = {
-							["min"] = 3077,
-							["multistrike"] = 1,
-							["critical"] = 5,
-							["hit"] = 13,
-							["totalhits"] = 18,
-							["id"] = 51723,
-							["max"] = 7363,
-							["damage"] = 80735,
-						},
-					},
-					["power"] = {
-						[4] = {
-							["amount"] = 7,
-							["spells"] = {
-								[139546] = 5,
-								[51699] = 2,
-							},
-						},
-					},
-					["damagetaken"] = 55,
-					["shielding"] = 0,
-					["id"] = "Player-3725-09C96965",
-					["first"] = 1421997550,
-					["ccbreaks"] = 0,
-					["damagetakenspells"] = {
-						["Attack"] = {
-							["crushing"] = 0,
-							["id"] = 6603,
-							["min"] = 17,
-							["absorbed"] = 0,
-							["critical"] = 0,
-							["glancing"] = 0,
-							["multistrike"] = 0,
-							["name"] = "Attack",
-							["blocked"] = 0,
-							["totalhits"] = 3,
-							["resisted"] = 0,
-							["max"] = 20,
-							["damage"] = 55,
-						},
-					},
-					["overhealing"] = 0,
-					["healingspells"] = {
-					},
-					["name"] = "Denisof",
-					["healing"] = 0,
-					["healed"] = {
-					},
-					["maxhp"] = 24080,
-					["dispells"] = 0,
-					["multistrikes"] = 0,
-				}, -- [1]
-			},
-			["deaths"] = 0,
-			["mobs"] = {
-				["Spire Spider"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 25358,
-							["done"] = 37,
-							["role"] = "NONE",
-							["class"] = "ROGUE",
-						},
-					},
-					["hdone"] = 0,
-					["htakenspell"] = {
-					},
-					["taken"] = 25358,
-					["done"] = 37,
-					["htaken"] = 0,
-					["hdonespell"] = {
-					},
-				},
-				["Spirestone Warlord"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 11010,
-							["done"] = 18,
-							["role"] = "NONE",
-							["class"] = "ROGUE",
-						},
-					},
-					["hdone"] = 0,
-					["htakenspell"] = {
-					},
-					["taken"] = 11010,
-					["done"] = 18,
-					["htaken"] = 0,
-					["hdonespell"] = {
-					},
-				},
-				["Spire Spiderling"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 44367,
-							["done"] = 0,
-							["role"] = "NONE",
-							["class"] = "ROGUE",
-						},
-					},
-					["hdone"] = 0,
-					["htakenspell"] = {
-					},
-					["taken"] = 44367,
-					["done"] = 0,
-					["htaken"] = 0,
-					["hdonespell"] = {
-					},
-				},
-			},
-			["mobtaken"] = 80735,
-			["starttime"] = 1421997549,
-			["healing"] = 0,
-			["power"] = {
-				[4] = 7,
-			},
-			["multistrikes"] = 0,
-			["overhealing"] = 0,
-			["shielding"] = 0,
-			["name"] = "Spire Spider",
-			["mobname"] = "Spire Spider",
-			["damagetaken"] = 55,
-			["mobhdone"] = 0,
-			["last_action"] = 1421997549,
-			["mobdone"] = 55,
-		}, -- [2]
-		{
-			["healingabsorbed"] = 0,
-			["dispells"] = 0,
-			["ccbreaks"] = 0,
-			["time"] = 6,
-			["interrupts"] = 0,
-			["mobdone"] = 28,
-			["damage"] = 21692,
-			["players"] = {
-				{
-					["last"] = 1421868088,
-					["healingabsorbed"] = 0,
-					["class"] = "ROGUE",
-					["damaged"] = {
-						["Spirestone Enforcer"] = 13519,
-						["Black Rat"] = 8173,
-					},
-					["auras"] = {
-						["Subterfuge"] = {
-							["name"] = "Subterfuge",
-							["active"] = 0,
-							["id"] = 115192,
-							["uptime"] = 3,
-							["auratype"] = "BUFF",
-						},
-						["Agility"] = {
-							["name"] = "Agility",
-							["active"] = 1,
-							["id"] = 60233,
-							["uptime"] = 4,
-							["auratype"] = "BUFF",
-						},
-					},
-					["role"] = "NONE",
-					["time"] = 5,
-					["interrupts"] = 0,
-					["damage"] = 21692,
-					["damagespells"] = {
-						["Fan of Knives"] = {
-							["min"] = 3089,
-							["critical"] = 1,
-							["hit"] = 4,
-							["totalhits"] = 5,
-							["id"] = 51723,
-							["max"] = 8173,
-							["damage"] = 21692,
-						},
-					},
-					["shielding"] = 0,
-					["damagetaken"] = 28,
-					["power"] = {
-						[4] = {
-							["spells"] = {
-								[139546] = 3,
-								[51699] = 1,
-							},
-							["amount"] = 4,
-						},
-					},
-					["id"] = "Player-3725-09C96965",
-					["first"] = 1421868083,
-					["dispells"] = 0,
-					["damagetakenspells"] = {
-						["Attack"] = {
-							["crushing"] = 0,
-							["id"] = 6603,
-							["damage"] = 28,
-							["max"] = 28,
-							["name"] = "Attack",
-							["min"] = 28,
-							["multistrike"] = 0,
-							["critical"] = 0,
-							["blocked"] = 0,
-							["totalhits"] = 1,
-							["resisted"] = 0,
-							["glancing"] = 0,
-							["absorbed"] = 0,
-						},
-					},
-					["maxhp"] = 24080,
-					["healed"] = {
-					},
-					["name"] = "Denisof",
-					["healing"] = 0,
-					["healingspells"] = {
-					},
-					["overhealing"] = 0,
-					["ccbreaks"] = 0,
-					["multistrikes"] = 0,
-				}, -- [1]
-			},
-			["deaths"] = 0,
-			["mobs"] = {
-				["Spirestone Enforcer"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 13519,
-							["done"] = 28,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 13519,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 28,
-				},
-				["Black Rat"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 8173,
-							["done"] = 0,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 8173,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 0,
-				},
-			},
-			["mobtaken"] = 21692,
-			["starttime"] = 1421868083,
-			["healing"] = 0,
-			["power"] = {
-				[4] = 4,
-			},
-			["damagetaken"] = 28,
-			["overhealing"] = 0,
-			["shielding"] = 0,
-			["name"] = "Spirestone Enforcer",
-			["mobname"] = "Spirestone Enforcer",
-			["multistrikes"] = 0,
-			["mobhdone"] = 0,
-			["last_action"] = 1421868083,
-			["endtime"] = 1421868089,
-		}, -- [3]
-		{
-			["healingabsorbed"] = 0,
-			["dispells"] = 0,
-			["ccbreaks"] = 0,
-			["time"] = 7,
-			["interrupts"] = 0,
-			["mobdone"] = 0,
-			["damage"] = 40377,
-			["players"] = {
-				{
-					["last"] = 1421868044,
-					["healingabsorbed"] = 0,
-					["class"] = "ROGUE",
-					["damaged"] = {
-						["Spirestone Mystic"] = 17044,
-						["Spirestone Ogre Magus"] = 11257,
-						["Spirestone Reaver"] = 12076,
-					},
-					["auras"] = {
-					},
-					["role"] = "NONE",
-					["time"] = 2,
-					["interrupts"] = 0,
-					["damage"] = 40377,
-					["damagespells"] = {
-						["Fan of Knives"] = {
-							["min"] = 2808,
-							["critical"] = 1,
-							["hit"] = 5,
-							["totalhits"] = 6,
-							["id"] = 51723,
-							["max"] = 6178,
-							["damage"] = 21343,
-						},
-						["Attack"] = {
-							["min"] = 3438,
-							["hit"] = 3,
-							["totalhits"] = 3,
-							["id"] = 6603,
-							["max"] = 8168,
-							["damage"] = 19034,
-						},
-					},
-					["shielding"] = 0,
-					["damagetaken"] = 0,
-					["power"] = {
-						[4] = {
-							["spells"] = {
-								[139546] = 3,
-								[51699] = 1,
-							},
-							["amount"] = 4,
-						},
-					},
-					["id"] = "Player-3725-09C96965",
-					["first"] = 1421868042,
-					["dispells"] = 0,
-					["damagetakenspells"] = {
-					},
-					["maxhp"] = 24080,
-					["healed"] = {
-					},
-					["name"] = "Denisof",
-					["healing"] = 0,
-					["healingspells"] = {
-					},
-					["overhealing"] = 0,
-					["ccbreaks"] = 0,
-					["multistrikes"] = 0,
-				}, -- [1]
-			},
-			["deaths"] = 0,
-			["mobs"] = {
-				["Spirestone Mystic"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 17044,
-							["done"] = 0,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 17044,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 0,
-				},
-				["Spirestone Ogre Magus"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 11257,
-							["done"] = 0,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 11257,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 0,
-				},
-				["Spirestone Reaver"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 12076,
-							["done"] = 0,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 12076,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 0,
-				},
-			},
-			["mobtaken"] = 40377,
-			["starttime"] = 1421868038,
-			["healing"] = 0,
-			["power"] = {
-				[4] = 4,
-			},
-			["damagetaken"] = 0,
-			["overhealing"] = 0,
-			["shielding"] = 0,
-			["name"] = "Spirestone Ogre Magus",
-			["mobname"] = "Spirestone Ogre Magus",
-			["multistrikes"] = 0,
-			["mobhdone"] = 0,
-			["last_action"] = 1421868038,
-			["endtime"] = 1421868045,
-		}, -- [4]
-		{
-			["healingabsorbed"] = 0,
-			["dispells"] = 0,
-			["ccbreaks"] = 0,
-			["time"] = 7,
-			["interrupts"] = 0,
-			["mobdone"] = 0,
-			["damage"] = 23761,
-			["players"] = {
-				{
-					["last"] = 1421867843,
-					["healingabsorbed"] = 0,
-					["class"] = "ROGUE",
-					["damaged"] = {
-						["Spirestone Warlord"] = 14081,
-						["Spirestone Battle Mage"] = 9680,
-					},
-					["auras"] = {
-					},
-					["role"] = "NONE",
-					["time"] = 4,
-					["interrupts"] = 0,
-					["damage"] = 23761,
-					["damagespells"] = {
-						["Attack"] = {
-							["min"] = 4381,
-							["hit"] = 3,
-							["totalhits"] = 3,
-							["id"] = 6603,
-							["max"] = 9700,
-							["damage"] = 23761,
-						},
-					},
-					["shielding"] = 0,
-					["damagetaken"] = 0,
-					["power"] = {
-					},
-					["id"] = "Player-3725-09C96965",
-					["first"] = 1421867839,
-					["dispells"] = 0,
-					["damagetakenspells"] = {
-					},
-					["maxhp"] = 24080,
-					["healed"] = {
-					},
-					["name"] = "Denisof",
-					["healing"] = 0,
-					["healingspells"] = {
-					},
-					["overhealing"] = 0,
-					["ccbreaks"] = 0,
-					["multistrikes"] = 0,
-				}, -- [1]
-			},
-			["deaths"] = 0,
-			["mobs"] = {
-				["Spirestone Warlord"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 14081,
-							["done"] = 0,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 14081,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 0,
-				},
-				["Spirestone Battle Mage"] = {
-					["players"] = {
-						["Denisof"] = {
-							["taken"] = 9680,
-							["done"] = 0,
-							["class"] = "ROGUE",
-							["role"] = "NONE",
-						},
-					},
-					["hdone"] = 0,
-					["hdonespell"] = {
-					},
-					["taken"] = 9680,
-					["htakenspell"] = {
-					},
-					["htaken"] = 0,
-					["done"] = 0,
-				},
-			},
-			["mobtaken"] = 23761,
-			["starttime"] = 1421867838,
-			["healing"] = 0,
-			["power"] = {
-			},
-			["damagetaken"] = 0,
-			["overhealing"] = 0,
-			["shielding"] = 0,
-			["name"] = "Spirestone Warlord",
-			["mobname"] = "Spirestone Warlord",
-			["multistrikes"] = 0,
-			["mobhdone"] = 0,
-			["last_action"] = 1421867838,
-			["endtime"] = 1421867845,
 		}, -- [5]
 	},
 	["total"] = {
 		["healingabsorbed"] = 0,
 		["dispells"] = 0,
 		["ccbreaks"] = 0,
-		["time"] = 105,
+		["time"] = 162,
 		["interrupts"] = 0,
-		["damage"] = 546376,
+		["damage"] = 887376,
 		["players"] = {
 			{
 				["healingabsorbed"] = 0,
@@ -683,25 +669,46 @@ SkadaPerCharDB = {
 				["damaged"] = {
 				},
 				["auras"] = {
+					["Subterfuge"] = {
+						["name"] = "Subterfuge",
+						["active"] = 2,
+						["id"] = 115192,
+						["uptime"] = 63,
+						["auratype"] = "BUFF",
+					},
+					["Deadly Poison"] = {
+						["name"] = "Deadly Poison",
+						["active"] = 0,
+						["id"] = 2818,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 1,
+					},
 					["Shadow Dance"] = {
 						["name"] = "Shadow Dance",
 						["active"] = 1,
 						["id"] = 51713,
 						["auratype"] = "BUFF",
-						["uptime"] = 83,
+						["uptime"] = 185,
+					},
+					["Fatal Flaws"] = {
+						["name"] = "Fatal Flaws",
+						["active"] = 4,
+						["id"] = 71403,
+						["uptime"] = 266,
+						["auratype"] = "BUFF",
+					},
+					["Shadowstep"] = {
+						["name"] = "Shadowstep",
+						["active"] = 0,
+						["id"] = 36554,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
 					},
 					["Agility"] = {
 						["name"] = "Agility",
-						["active"] = 9,
+						["active"] = 14,
 						["id"] = 60233,
-						["uptime"] = 165,
-						["auratype"] = "BUFF",
-					},
-					["Subterfuge"] = {
-						["name"] = "Subterfuge",
-						["active"] = 0,
-						["id"] = 115192,
-						["uptime"] = 21,
+						["uptime"] = 267,
 						["auratype"] = "BUFF",
 					},
 					["Premeditation"] = {
@@ -709,20 +716,13 @@ SkadaPerCharDB = {
 						["active"] = 1,
 						["id"] = 14183,
 						["auratype"] = "BUFF",
-						["uptime"] = 112,
-					},
-					["Fatal Flaws"] = {
-						["name"] = "Fatal Flaws",
-						["active"] = 2,
-						["id"] = 71403,
-						["uptime"] = 164,
-						["auratype"] = "BUFF",
+						["uptime"] = 214,
 					},
 					["Stealth"] = {
 						["name"] = "Stealth",
 						["active"] = 0,
 						["id"] = 115191,
-						["uptime"] = 39,
+						["uptime"] = 78,
 						["auratype"] = "BUFF",
 					},
 					["Find Weakness"] = {
@@ -741,9 +741,9 @@ SkadaPerCharDB = {
 					},
 				},
 				["role"] = "NONE",
-				["time"] = 96,
+				["time"] = 153,
 				["interrupts"] = 0,
-				["damage"] = 546376,
+				["damage"] = 887376,
 				["damagespells"] = {
 					["Ambush"] = {
 						["min"] = 39272,
@@ -755,142 +755,142 @@ SkadaPerCharDB = {
 					},
 					["Fan of Knives"] = {
 						["min"] = 2808,
-						["multistrike"] = 7,
-						["critical"] = 15,
-						["hit"] = 62,
-						["totalhits"] = 77,
+						["multistrike"] = 9,
+						["critical"] = 26,
+						["hit"] = 105,
+						["totalhits"] = 131,
 						["id"] = 51723,
 						["max"] = 8173,
-						["damage"] = 320969,
+						["damage"] = 552431,
 					},
 					["Attack"] = {
 						["min"] = 3438,
-						["multistrike"] = 4,
-						["critical"] = 1,
-						["hit"] = 23,
-						["totalhits"] = 24,
+						["multistrike"] = 5,
+						["critical"] = 5,
+						["hit"] = 30,
+						["totalhits"] = 35,
 						["id"] = 6603,
-						["max"] = 12857,
-						["damage"] = 186135,
+						["max"] = 19208,
+						["damage"] = 295673,
 					},
 				},
 				["deathlog"] = {
 					{
-						["ts"] = 1421653017.284,
-						["amount"] = -6,
-						["spellid"] = 88163,
-						["srcname"] = "Spire Spiderling",
+						["ts"] = 1422045582.59,
+						["amount"] = -18,
 						["hp"] = 24080,
+						["spellid"] = 88163,
+						["srcname"] = "Spire Spider",
 					}, -- [1]
 					{
-						["ts"] = 1421653233.222,
-						["amount"] = -26,
+						["ts"] = 1422045583.296,
+						["amount"] = -22,
+						["hp"] = 24062,
 						["spellid"] = 88163,
-						["srcname"] = "Spirestone Reaver",
-						["hp"] = 24080,
+						["srcname"] = "Spire Spider",
 					}, -- [2]
 					{
-						["ts"] = 1421653347.909,
-						["amount"] = -17,
-						["spellid"] = 88163,
-						["srcname"] = "Smolderthorn Shadow Hunter",
-						["hp"] = 24080,
+						["ts"] = 1422074679.733,
+						["amount"] = -8,
+						["hp"] = 24072,
+						["spellid"] = 15791,
+						["srcname"] = "Bloodaxe Summoner",
 					}, -- [3]
 					{
-						["ts"] = 1421822653.514,
-						["amount"] = -9,
-						["spellid"] = 15795,
-						["srcname"] = "Smolderthorn Headhunter",
-						["hp"] = 24071,
+						["ts"] = 1422169101.3,
+						["amount"] = -3,
+						["hp"] = 24077,
+						["spellid"] = 16071,
+						["srcname"] = "Firebrand Darkweaver",
 					}, -- [4]
 					{
-						["ts"] = 1421822716.179,
-						["amount"] = -21,
-						["spellid"] = 88163,
-						["srcname"] = "Smolderthorn Witch Doctor",
+						["ts"] = 1422169514.982,
+						["amount"] = -24,
 						["hp"] = 24080,
+						["spellid"] = 88163,
+						["srcname"] = "Smolderthorn Shadow Priest",
 					}, -- [5]
 					{
 						["ts"] = 1421822716.179,
 						["amount"] = -20,
+						["hp"] = 24080,
 						["spellid"] = 88163,
 						["srcname"] = "Smolderthorn Witch Doctor",
-						["hp"] = 24080,
 					}, -- [6]
 					{
 						["ts"] = 1421822717.245,
 						["amount"] = -23,
+						["hp"] = 24016,
 						["spellid"] = 15801,
 						["srcname"] = "Smolderthorn Seer",
-						["hp"] = 24016,
 					}, -- [7]
 					{
 						["ts"] = 1421822718.143,
 						["amount"] = -23,
+						["hp"] = 24016,
 						["spellid"] = 88163,
 						["srcname"] = "Smolderthorn Witch Doctor",
-						["hp"] = 24016,
 					}, -- [8]
 					{
 						["ts"] = 1421822782.18,
 						["amount"] = -22,
+						["hp"] = 24080,
 						["spellid"] = 88163,
 						["srcname"] = "Smolderthorn Shadow Priest",
-						["hp"] = 24080,
 					}, -- [9]
 					{
 						["ts"] = 1421822842.39,
 						["amount"] = -19,
+						["hp"] = 24080,
 						["spellid"] = 88163,
 						["srcname"] = "Scarshield Warlock",
-						["hp"] = 24080,
 					}, -- [10]
 					{
 						["ts"] = 1421868085.051,
 						["amount"] = -28,
+						["spellid"] = 88163,
 						["srcname"] = "Spirestone Enforcer",
 						["hp"] = 24080,
-						["spellid"] = 88163,
 					}, -- [11]
 					{
 						["ts"] = 1421997519.426,
 						["amount"] = -34,
+						["srcname"] = "Firebrand Grunt",
 						["hp"] = 24080,
 						["spellid"] = 88163,
-						["srcname"] = "Firebrand Grunt",
 					}, -- [12]
 					{
 						["ts"] = 1421997565.054,
 						["amount"] = -20,
+						["srcname"] = "Spire Spider",
 						["hp"] = 24080,
 						["spellid"] = 88163,
-						["srcname"] = "Spire Spider",
 					}, -- [13]
 					{
 						["ts"] = 1421997566.542,
 						["amount"] = -17,
+						["srcname"] = "Spire Spider",
 						["hp"] = 24060,
 						["spellid"] = 88163,
-						["srcname"] = "Spire Spider",
 					}, -- [14]
 					{
 						["ts"] = 1421997569.41,
 						["amount"] = -18,
+						["srcname"] = "Spirestone Warlord",
 						["hp"] = 24043,
 						["spellid"] = 88163,
-						["srcname"] = "Spirestone Warlord",
 					}, -- [15]
-					["pos"] = 1,
+					["pos"] = 6,
 				},
-				["damagetaken"] = 303,
+				["damagetaken"] = 378,
 				["power"] = {
 					[4] = {
 						["spells"] = {
-							[139546] = 28,
+							[139546] = 38,
 							[14183] = 2,
-							[51699] = 11,
+							[51699] = 17,
 						},
-						["amount"] = 41,
+						["amount"] = 57,
 					},
 				},
 				["id"] = "Player-3725-09C96965",
@@ -912,6 +912,36 @@ SkadaPerCharDB = {
 						["max"] = 9,
 						["damage"] = 9,
 					},
+					["Curse of the Firebrand"] = {
+						["crushing"] = 0,
+						["id"] = 16071,
+						["min"] = 3,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Curse of the Firebrand",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 3,
+						["damage"] = 3,
+					},
+					["Arcane Missiles"] = {
+						["crushing"] = 0,
+						["id"] = 15791,
+						["damage"] = 8,
+						["max"] = 8,
+						["name"] = "Arcane Missiles",
+						["min"] = 8,
+						["multistrike"] = 0,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+					},
 					["Lightning Bolt"] = {
 						["crushing"] = 0,
 						["id"] = 15801,
@@ -930,14 +960,14 @@ SkadaPerCharDB = {
 					["Attack"] = {
 						["crushing"] = 0,
 						["id"] = 6603,
-						["damage"] = 271,
+						["damage"] = 335,
 						["max"] = 34,
 						["name"] = "Attack",
 						["min"] = 6,
 						["multistrike"] = 0,
 						["critical"] = 0,
 						["blocked"] = 0,
-						["totalhits"] = 13,
+						["totalhits"] = 16,
 						["resisted"] = 0,
 						["glancing"] = 0,
 						["absorbed"] = 0,
@@ -979,19 +1009,37 @@ SkadaPerCharDB = {
 				["players"] = {
 					["Denisof"] = {
 						["taken"] = 8257,
-						["done"] = 22,
+						["done"] = 46,
 						["role"] = "NONE",
 						["class"] = "ROGUE",
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 22,
+				["done"] = 46,
 				["taken"] = 8257,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
+			},
+			["Bloodaxe Summoner"] = {
+				["players"] = {
+					["Denisof"] = {
+						["taken"] = 8749,
+						["done"] = 8,
+						["class"] = "ROGUE",
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 8749,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["done"] = 8,
 			},
 			["Scarshield Spellbinder"] = {
 				["players"] = {
@@ -1014,7 +1062,7 @@ SkadaPerCharDB = {
 			["Smolderthorn Headhunter"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 25840,
+						["taken"] = 44584,
 						["done"] = 9,
 						["class"] = "ROGUE",
 						["role"] = "NONE",
@@ -1023,11 +1071,29 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 25840,
+				["taken"] = 44584,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
 				["done"] = 9,
+			},
+			["Roach"] = {
+				["players"] = {
+					["Denisof"] = {
+						["taken"] = 4087,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "ROGUE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 4087,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
 			},
 			["Spirestone Reaver"] = {
 				["players"] = {
@@ -1047,10 +1113,46 @@ SkadaPerCharDB = {
 				["htaken"] = 0,
 				["done"] = 26,
 			},
+			["Bloodaxe Veteran"] = {
+				["players"] = {
+					["Denisof"] = {
+						["taken"] = 13084,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "ROGUE",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 13084,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Firebrand Darkweaver"] = {
+				["players"] = {
+					["Denisof"] = {
+						["taken"] = 7108,
+						["done"] = 3,
+						["role"] = "NONE",
+						["class"] = "ROGUE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 7108,
+				["done"] = 3,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
 			["Smolderthorn Witch Doctor"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 32053,
+						["taken"] = 42863,
 						["done"] = 64,
 						["role"] = "NONE",
 						["class"] = "ROGUE",
@@ -1058,7 +1160,25 @@ SkadaPerCharDB = {
 				},
 				["hdone"] = 0,
 				["done"] = 64,
-				["taken"] = 32053,
+				["taken"] = 42863,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Crystal Fang"] = {
+				["players"] = {
+					["Denisof"] = {
+						["taken"] = 20598,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "ROGUE",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 20598,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -1083,18 +1203,18 @@ SkadaPerCharDB = {
 				["htaken"] = 0,
 				["done"] = 17,
 			},
-			["Spirestone Enforcer"] = {
+			["Shadow Hunter Vosh'gajin"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 35906,
-						["done"] = 28,
+						["taken"] = 75160,
+						["done"] = 0,
 						["role"] = "NONE",
 						["class"] = "ROGUE",
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 28,
-				["taken"] = 35906,
+				["done"] = 0,
+				["taken"] = 75160,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -1104,8 +1224,8 @@ SkadaPerCharDB = {
 			["Spire Spider"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 46136,
-						["done"] = 37,
+						["taken"] = 85711,
+						["done"] = 77,
 						["class"] = "ROGUE",
 						["role"] = "NONE",
 					},
@@ -1113,11 +1233,11 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 46136,
+				["taken"] = 85711,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
-				["done"] = 37,
+				["done"] = 77,
 			},
 			["Scarshield Warlock"] = {
 				["players"] = {
@@ -1155,18 +1275,18 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 			},
-			["Shadow Hunter Vosh'gajin"] = {
+			["Spirestone Enforcer"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 75160,
-						["done"] = 0,
+						["taken"] = 59659,
+						["done"] = 28,
 						["role"] = "NONE",
 						["class"] = "ROGUE",
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 0,
-				["taken"] = 75160,
+				["done"] = 28,
+				["taken"] = 59659,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -1212,7 +1332,7 @@ SkadaPerCharDB = {
 			["Smolderthorn Seer"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 16176,
+						["taken"] = 42143,
 						["done"] = 23,
 						["role"] = "NONE",
 						["class"] = "ROGUE",
@@ -1220,25 +1340,7 @@ SkadaPerCharDB = {
 				},
 				["hdone"] = 0,
 				["done"] = 23,
-				["taken"] = 16176,
-				["htakenspell"] = {
-				},
-				["htaken"] = 0,
-				["hdonespell"] = {
-				},
-			},
-			["Scarshield Raider"] = {
-				["players"] = {
-					["Denisof"] = {
-						["taken"] = 8641,
-						["done"] = 0,
-						["role"] = "NONE",
-						["class"] = "ROGUE",
-					},
-				},
-				["hdone"] = 0,
-				["done"] = 0,
-				["taken"] = 8641,
+				["taken"] = 42143,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -1263,10 +1365,28 @@ SkadaPerCharDB = {
 				["htaken"] = 0,
 				["done"] = 0,
 			},
+			["Scarshield Raider"] = {
+				["players"] = {
+					["Denisof"] = {
+						["taken"] = 8641,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "ROGUE",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 8641,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
 			["Firebrand Grunt"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 23754,
+						["taken"] = 52691,
 						["done"] = 34,
 						["class"] = "ROGUE",
 						["role"] = "NONE",
@@ -1275,7 +1395,7 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 23754,
+				["taken"] = 52691,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -1302,7 +1422,7 @@ SkadaPerCharDB = {
 			["Firebrand Invoker"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 9746,
+						["taken"] = 16853,
 						["done"] = 0,
 						["class"] = "ROGUE",
 						["role"] = "NONE",
@@ -1311,7 +1431,7 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 9746,
+				["taken"] = 16853,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -1356,7 +1476,7 @@ SkadaPerCharDB = {
 			["Spire Spiderling"] = {
 				["players"] = {
 					["Denisof"] = {
-						["taken"] = 85635,
+						["taken"] = 218116,
 						["done"] = 6,
 						["class"] = "ROGUE",
 						["role"] = "NONE",
@@ -1365,21 +1485,21 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 85635,
+				["taken"] = 218116,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
 				["done"] = 6,
 			},
 		},
-		["mobtaken"] = 546376,
+		["mobtaken"] = 887376,
 		["healing"] = 0,
-		["mobdone"] = 303,
+		["mobdone"] = 378,
 		["power"] = {
-			[4] = 41,
+			[4] = 57,
 		},
 		["overhealing"] = 0,
-		["damagetaken"] = 303,
+		["damagetaken"] = 378,
 		["name"] = "Total",
 		["starttime"] = 1421652997,
 		["shielding"] = 0,

@@ -11,6 +11,15 @@ VER 3 0100000000000018 "Expel" "INV_MISC_QUESTIONMARK"
 /run UIErrorsFrame:Clear() 
 /run SetCVar("Sound_EnableSFX",sfx);
 END
+VER 3 010000000000001A "Fury" "INV_MISC_QUESTIONMARK"
+#showtooltip Fists of Fury
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/use 14
+/run UIErrorsFrame:Clear() 
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Fists of Fury
+END
 VER 3 0100000000000017 "Jab" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Jab

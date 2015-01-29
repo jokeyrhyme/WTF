@@ -2,11 +2,11 @@
 GFW_FactionFriend_DB = {
 	["profileKeys"] = {
 		["Cervus - Frostmourne"] = "Default",
-		["Shantou - Frostmourne"] = "Default",
+		["Gachnar - Frostmourne"] = "Default",
 		["Denisof - Frostmourne"] = "Default",
 		["Hoffryn - Frostmourne"] = "Default",
 		["Vocah - Frostmourne"] = "Default",
-		["Gachnar - Frostmourne"] = "Default",
+		["Shantou - Frostmourne"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

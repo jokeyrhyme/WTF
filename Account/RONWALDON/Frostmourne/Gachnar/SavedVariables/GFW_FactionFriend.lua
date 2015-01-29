@@ -1,6 +1,9 @@
 
 FFF_RecentFactions = {
-	"Therazane", -- [1]
-	"Guild", -- [2]
+	"Council of Exarchs", -- [1]
+	"Shado-Pan", -- [2]
+	"Therazane", -- [3]
+	"Alliance", -- [4]
+	"Guild", -- [5]
 }
-FFF_LastTabardID = 65907
+FFF_LastTabardID = nil
