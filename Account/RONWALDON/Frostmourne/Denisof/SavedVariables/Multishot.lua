@@ -61,5 +61,8 @@ MultishotPlayerScreens = {
 		"WoWScrnShot_Sat_Jan_24_073944_2015.jpg", -- [58]
 		"WoWScrnShot_Sat_Jan_24_073945_2015.jpg", -- [59]
 		"WoWScrnShot_Sat_Jan_24_073946_2015.jpg", -- [60]
+		"WoWScrnShot_020715_090719.jpg", -- [61]
+		"WoWScrnShot_020715_090720.jpg", -- [62]
+		"WoWScrnShot_020715_090721.jpg", -- [63]
 	},
 }

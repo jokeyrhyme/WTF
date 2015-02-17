@@ -20,7 +20,7 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384.000091552734,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
@@ -75,6 +75,41 @@ CombuctorDB2 = {
 				},
 			},
 		},
+		["Corsheth - Frostmourne"] = {
+			["inventory"] = {
+				["h"] = 512,
+				["showBags"] = false,
+				["position"] = {
+					"RIGHT", -- [1]
+				},
+				["exclude"] = {
+					["All"] = {
+						"All", -- [1]
+					},
+				},
+				["sets"] = {
+					"All", -- [1]
+				},
+				["w"] = 384,
+				["leftSideFilter"] = true,
+			},
+			["bank"] = {
+				["h"] = 512,
+				["showBags"] = false,
+				["sets"] = {
+					"All", -- [1]
+					"Equipment", -- [2]
+					"Trade Goods", -- [3]
+					"Miscellaneous", -- [4]
+				},
+				["w"] = 512,
+				["exclude"] = {
+					["All"] = {
+						"All", -- [1]
+					},
+				},
+			},
+		},
 		["Vocah - Frostmourne"] = {
 			["inventory"] = {
 				["h"] = 512,
@@ -90,7 +125,7 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384.000091552734,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
@@ -125,12 +160,12 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384.000091552734,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
 				["h"] = 512,
-				["showBags"] = false,
+				["showBags"] = true,
 				["sets"] = {
 					"All", -- [1]
 					"Equipment", -- [2]
@@ -230,7 +265,7 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384.000091552734,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
@@ -265,12 +300,12 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384.000091552734,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
 				["h"] = 512,
-				["showBags"] = false,
+				["showBags"] = true,
 				["sets"] = {
 					"All", -- [1]
 					"Equipment", -- [2]
@@ -335,12 +370,12 @@ CombuctorDB2 = {
 				["sets"] = {
 					"All", -- [1]
 				},
-				["w"] = 384.000061035156,
+				["w"] = 384.000091552734,
 				["leftSideFilter"] = true,
 			},
 			["bank"] = {
 				["h"] = 512,
-				["showBags"] = false,
+				["showBags"] = true,
 				["sets"] = {
 					"All", -- [1]
 					"Equipment", -- [2]

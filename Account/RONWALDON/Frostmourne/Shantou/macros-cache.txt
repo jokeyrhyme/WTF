@@ -38,6 +38,8 @@ VER 3 0100000000000016 "Renew" "INV_MISC_QUESTIONMARK"
 /run sfx=GetCVar("Sound_EnableSFX");
 /console Sound_EnableSFX 0
 /cast Thunder Focus Tea
+/use 13
+/use 14
 /run UIErrorsFrame:Clear() 
 /run SetCVar("Sound_EnableSFX",sfx);
 /cast Renewing Mist
@@ -56,6 +58,8 @@ VER 3 0100000000000015 "Surge" "INV_MISC_QUESTIONMARK"
 /run sfx=GetCVar("Sound_EnableSFX");
 /console Sound_EnableSFX 0
 /cast Thunder Focus Tea
+/use 13
+/use 14
 /run UIErrorsFrame:Clear() 
 /run SetCVar("Sound_EnableSFX",sfx);
 /cast Surging Mist

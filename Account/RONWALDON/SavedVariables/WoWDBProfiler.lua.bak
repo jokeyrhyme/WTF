@@ -1,0 +1,1622 @@
+
+WoWDBProfilerData = {
+	["profileKeys"] = {
+		["Denisof - Frostmourne"] = "Default",
+	},
+	["region"] = "US",
+	["version"] = 18,
+	["build_num"] = 19342,
+	["global"] = {
+		["npcs"] = {
+			["9269"] = {
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["loot_counts"] = {
+							["pick_pocket"] = 5,
+						},
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 7779,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:634:554"] = true,
+										["1:636:548"] = true,
+										["1:664:644"] = true,
+									},
+								},
+								["power"] = "MANA:4578",
+							},
+							["level_57"] = {
+								["max_health"] = 7689,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:592:584"] = true,
+										["1:548:574"] = true,
+										["2:556:694"] = true,
+										["1:518:620"] = true,
+										["1:590:576"] = true,
+									},
+								},
+								["power"] = "MANA:4482",
+							},
+						},
+						["pick_pocket"] = {
+							"money:70", -- [1]
+							"money:18", -- [2]
+							"money:79", -- [3]
+							"money:69", -- [4]
+							"money:73", -- [5]
+						},
+						["spells"] = {
+							[13585] = 18,
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["reaction"] = "81:Alliance:HOSTILE",
+			},
+			["9098"] = {
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["spells"] = {
+							[15123] = 98,
+						},
+						["stats"] = {
+							["level_57"] = {
+								["max_health"] = 6150,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:582:410"] = true,
+										["4:312:484"] = true,
+										["4:302:496"] = true,
+										["4:302:486"] = true,
+										["4:322:436"] = true,
+										["4:298:432"] = true,
+										["4:302:438"] = true,
+										["3:616:632"] = true,
+										["4:382:488"] = true,
+										["3:652:414"] = true,
+										["3:508:400"] = true,
+										["3:644:568"] = true,
+										["3:646:576"] = true,
+										["3:600:512"] = true,
+										["4:384:496"] = true,
+									},
+									["Hall of Blackhand:29"] = {
+										["0:0:0"] = true,
+									},
+								},
+								["power"] = "MANA:10680",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 9,
+						},
+						["pick_pocket"] = {
+							"money:77", -- [1]
+							"money:59", -- [2]
+							"money:74", -- [3]
+							"money:76", -- [4]
+							"money:63", -- [5]
+							"money:42", -- [6]
+							"money:40", -- [7]
+							"money:85", -- [8]
+							"money:59", -- [9]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["reaction"] = "81:Alliance:HOSTILE",
+			},
+			["9267"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:632:578"] = true,
+										["2:522:606"] = true,
+										["2:528:602"] = true,
+										["2:530:514"] = true,
+									},
+								},
+								["max_health"] = 7779,
+							},
+							["level_57"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["2:558:612"] = true,
+										["2:556:548"] = true,
+										["2:530:514"] = true,
+										["2:562:606"] = true,
+										["3:632:578"] = true,
+									},
+								},
+								["max_health"] = 7689,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 8,
+						},
+						["pick_pocket"] = {
+							"money:20", -- [1]
+							"money:66", -- [2]
+							"8952:1", -- [3]
+							"money:19", -- [4]
+							"money:76", -- [5]
+							"8952:1", -- [6]
+							"money:82", -- [7]
+							"money:19", -- [8]
+							"money:38", -- [9]
+							"money:64", -- [10]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9240"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 7779,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["2:554:548"] = true,
+										["2:522:606"] = true,
+										["2:544:548"] = true,
+										["2:548:720"] = true,
+										["2:548:710"] = true,
+									},
+								},
+								["power"] = "MANA:4578",
+							},
+							["level_57"] = {
+								["max_health"] = 7689,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["2:548:600"] = true,
+										["2:556:694"] = true,
+										["2:550:606"] = true,
+										["2:554:720"] = true,
+										["2:560:712"] = true,
+										["2:562:718"] = true,
+									},
+								},
+								["power"] = "MANA:4482",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 7,
+						},
+						["pick_pocket"] = {
+							"16885:1", -- [1]
+							"money:31", -- [2]
+							"5428:1", -- [3]
+							"7910:1", -- [4]
+							"8950:1", -- [5]
+							"money:34", -- [6]
+							"money:79", -- [7]
+							"3928:1", -- [8]
+							"money:44", -- [9]
+							"money:54", -- [10]
+							"money:38", -- [11]
+							"money:72", -- [12]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9264"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 7779,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:588:742"] = true,
+										["1:588:748"] = true,
+										["1:588:756"] = true,
+										["1:578:768"] = true,
+										["1:574:778"] = true,
+									},
+								},
+								["power"] = "MANA:4578",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 2,
+						},
+						["pick_pocket"] = {
+							"money:27", -- [1]
+							"money:61", -- [2]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9216"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["6:600:644"] = true,
+										["4:446:554"] = true,
+										["6:494:604"] = true,
+										["4:424:578"] = true,
+										["4:450:568"] = true,
+										["6:536:610"] = true,
+										["6:528:612"] = true,
+										["4:420:590"] = true,
+										["6:500:604"] = true,
+										["4:420:598"] = true,
+										["4:422:584"] = true,
+										["4:450:560"] = true,
+										["4:452:554"] = true,
+									},
+								},
+								["max_health"] = 10372,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 5,
+						},
+						["pick_pocket"] = {
+							"money:53", -- [1]
+							"16885:1", -- [2]
+							"money:65", -- [3]
+							"money:85", -- [4]
+							"8952:1", -- [5]
+							"money:37", -- [6]
+							"money:94", -- [7]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9416"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_54"] = {
+								["locations"] = {
+									["Hall of Blackhand:29"] = {
+										["0:0:0"] = true,
+									},
+								},
+								["max_health"] = 3034,
+							},
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["UNKNOWN"] = true,
+				},
+			},
+			["9196"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:354:568"] = true,
+										["3:352:562"] = true,
+									},
+								},
+								["max_health"] = 34338,
+							},
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9200"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:492:582"] = true,
+										["3:392:558"] = true,
+										["3:370:600"] = true,
+										["3:404:564"] = true,
+										["3:376:600"] = true,
+										["3:486:582"] = true,
+										["3:474:584"] = true,
+										["3:432:576"] = true,
+										["3:468:582"] = true,
+										["3:460:580"] = true,
+										["3:480:582"] = true,
+										["3:398:560"] = true,
+									},
+								},
+								["max_health"] = 10372,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 4,
+						},
+						["pick_pocket"] = {
+							"money:60", -- [1]
+							"money:21", -- [2]
+							"money:22", -- [3]
+							"money:17", -- [4]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9045"] = {
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_56"] = {
+								["max_health"] = 5922,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:608:528"] = true,
+										["3:602:514"] = true,
+										["3:652:414"] = true,
+										["4:308:442"] = true,
+										["3:644:568"] = true,
+										["4:298:432"] = true,
+										["4:302:442"] = true,
+										["3:608:520"] = true,
+									},
+									["Hall of Blackhand:29"] = {
+										["0:0:0"] = true,
+									},
+								},
+								["power"] = "MANA:5206",
+							},
+							["level_57"] = {
+								["max_health"] = 6150,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["4:302:494"] = true,
+										["3:508:400"] = true,
+									},
+									["Hall of Blackhand:29"] = {
+										["0:0:0"] = true,
+									},
+								},
+								["power"] = "MANA:5340",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 6,
+						},
+						["pick_pocket"] = {
+							"money:38", -- [1]
+							"money:77", -- [2]
+							"money:58", -- [3]
+							"money:39", -- [4]
+							"money:36", -- [5]
+							"money:39", -- [6]
+							"5428:1", -- [7]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["reaction"] = "81:Alliance:HOSTILE",
+			},
+			["9583"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["5:358:752"] = true,
+										["5:350:712"] = true,
+										["6:488:604"] = true,
+										["6:496:598"] = true,
+										["5:348:604"] = true,
+										["5:352:596"] = true,
+										["6:558:614"] = true,
+										["5:400:604"] = true,
+										["5:352:744"] = true,
+										["6:494:604"] = true,
+										["5:390:606"] = true,
+										["5:352:750"] = true,
+										["5:342:714"] = true,
+										["5:390:612"] = true,
+									},
+								},
+								["max_health"] = 8241,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 7,
+						},
+						["pick_pocket"] = {
+							"money:28", -- [1]
+							"8952:1", -- [2]
+							"money:61", -- [3]
+							"money:30", -- [4]
+							"money:24", -- [5]
+							"money:42", -- [6]
+							"money:85", -- [7]
+							"money:78", -- [8]
+							"16885:1", -- [9]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9201"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 10372,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:494:574"] = true,
+										["3:370:598"] = true,
+										["3:364:590"] = true,
+										["3:420:576"] = true,
+										["3:428:580"] = true,
+										["3:354:558"] = true,
+									},
+								},
+								["power"] = "MANA:11445",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 4,
+						},
+						["pick_pocket"] = {
+							"money:91", -- [1]
+							"money:49", -- [2]
+							"8952:1", -- [3]
+							"money:81", -- [4]
+							"money:79", -- [5]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9260"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:574:778"] = true,
+										["1:588:756"] = true,
+										["1:574:770"] = true,
+									},
+								},
+								["max_health"] = 7779,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 2,
+						},
+						["pick_pocket"] = {
+							"money:90", -- [1]
+							"money:78", -- [2]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9097"] = {
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_56"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:506:404"] = true,
+										["3:584:410"] = true,
+										["3:614:620"] = true,
+										["4:322:436"] = true,
+										["3:664:596"] = true,
+										["3:616:614"] = true,
+										["3:652:414"] = true,
+										["3:582:402"] = true,
+										["3:644:568"] = true,
+										["4:460:462"] = true,
+										["3:672:580"] = true,
+										["4:316:494"] = true,
+										["3:664:564"] = true,
+										["4:330:448"] = true,
+										["4:310:492"] = true,
+										["4:302:496"] = true,
+										["4:322:494"] = true,
+										["3:616:632"] = true,
+										["3:614:626"] = true,
+										["3:666:570"] = true,
+										["3:600:512"] = true,
+										["4:326:442"] = true,
+										["3:574:398"] = true,
+										["4:460:454"] = true,
+										["4:384:496"] = true,
+									},
+									["Hall of Blackhand:29"] = {
+										["0:0:0"] = true,
+									},
+								},
+								["max_health"] = 7401,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 17,
+						},
+						["pick_pocket"] = {
+							"money:84", -- [1]
+							"money:43", -- [2]
+							"money:28", -- [3]
+							"5428:1", -- [4]
+							"money:93", -- [5]
+							"8950:1", -- [6]
+							"money:59", -- [7]
+							"5428:1", -- [8]
+							"money:77", -- [9]
+							"money:66", -- [10]
+							"money:18", -- [11]
+							"money:78", -- [12]
+							"money:16", -- [13]
+							"money:17", -- [14]
+							"5428:1", -- [15]
+							"money:52", -- [16]
+							"money:92", -- [17]
+							"money:23", -- [18]
+							"money:45", -- [19]
+							"money:78", -- [20]
+							"money:61", -- [21]
+							"16885:1", -- [22]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["reaction"] = "81:Alliance:HOSTILE",
+			},
+			["9257"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_57"] = {
+								["max_health"] = 6150,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:640:428"] = true,
+										["3:506:404"] = true,
+										["3:648:426"] = true,
+										["3:616:632"] = true,
+										["4:454:464"] = true,
+										["3:652:414"] = true,
+										["3:600:512"] = true,
+										["4:452:456"] = true,
+										["4:460:462"] = true,
+										["3:650:420"] = true,
+										["3:498:410"] = true,
+									},
+								},
+								["power"] = "MANA:10680",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 5,
+						},
+						["pick_pocket"] = {
+							"money:85", -- [1]
+							"money:35", -- [2]
+							"money:69", -- [3]
+							"8952:1", -- [4]
+							"money:84", -- [5]
+							"money:92", -- [6]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9258"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_57"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:526:422"] = true,
+										["4:470:434"] = true,
+										["3:588:428"] = true,
+										["4:378:486"] = true,
+										["4:460:444"] = true,
+										["3:532:420"] = true,
+										["3:520:436"] = true,
+										["4:464:454"] = true,
+										["4:462:438"] = true,
+										["3:612:626"] = true,
+										["4:380:476"] = true,
+										["3:642:578"] = true,
+										["3:616:632"] = true,
+										["3:632:590"] = true,
+										["3:580:428"] = true,
+										["3:518:426"] = true,
+										["4:466:444"] = true,
+										["3:640:584"] = true,
+										["3:606:634"] = true,
+										["3:570:432"] = true,
+									},
+									["Hall of Blackhand:29"] = {
+										["0:0:0"] = true,
+									},
+								},
+								["max_health"] = 7689,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 6,
+						},
+						["pick_pocket"] = {
+							"money:22", -- [1]
+							"money:54", -- [2]
+							"money:59", -- [3]
+							"money:86", -- [4]
+							"16885:1", -- [5]
+							"money:55", -- [6]
+							"money:55", -- [7]
+							"16885:1", -- [8]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9266"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 7779,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:662:636"] = true,
+										["1:646:556"] = true,
+										["1:664:644"] = true,
+										["1:548:574"] = true,
+										["1:550:566"] = true,
+										["1:656:642"] = true,
+										["1:638:546"] = true,
+										["1:648:548"] = true,
+									},
+								},
+								["power"] = "MANA:2289",
+							},
+							["level_57"] = {
+								["max_health"] = 7689,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:598:592"] = true,
+										["1:600:586"] = true,
+										["1:594:586"] = true,
+										["1:518:620"] = true,
+									},
+								},
+								["power"] = "MANA:2241",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 6,
+						},
+						["pick_pocket"] = {
+							"money:49", -- [1]
+							"money:79", -- [2]
+							"money:53", -- [3]
+							"money:46", -- [4]
+							"money:30", -- [5]
+							"16885:1", -- [6]
+							"money:64", -- [7]
+							"5428:1", -- [8]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9198"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 10372,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:442:588"] = true,
+										["3:356:556"] = true,
+										["3:376:604"] = true,
+										["3:436:586"] = true,
+										["3:364:556"] = true,
+										["3:448:586"] = true,
+										["3:434:580"] = true,
+									},
+								},
+								["power"] = "MANA:11445",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 1,
+						},
+						["pick_pocket"] = {
+							"money:59", -- [1]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9716"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["5:432:802"] = true,
+										["5:422:806"] = true,
+										["5:528:802"] = true,
+										["5:556:866"] = true,
+										["5:528:862"] = true,
+										["5:430:796"] = true,
+										["5:398:664"] = true,
+										["5:550:858"] = true,
+										["5:408:718"] = true,
+										["5:400:674"] = true,
+									},
+								},
+								["max_health"] = 8241,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 10,
+						},
+						["pick_pocket"] = {
+							"money:22", -- [1]
+							"money:46", -- [2]
+							"money:77", -- [3]
+							"money:82", -- [4]
+							"money:43", -- [5]
+							"money:20", -- [6]
+							"money:27", -- [7]
+							"8952:1", -- [8]
+							"16885:1", -- [9]
+							"money:80", -- [10]
+							"money:38", -- [11]
+							"money:91", -- [12]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9261"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 6222,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:472:604"] = true,
+										["1:486:576"] = true,
+										["1:560:706"] = true,
+										["1:478:602"] = true,
+										["1:490:668"] = true,
+										["1:526:656"] = true,
+										["1:468:612"] = true,
+										["1:484:582"] = true,
+										["1:472:558"] = true,
+										["1:486:588"] = true,
+										["1:504:680"] = true,
+										["1:492:662"] = true,
+										["1:492:574"] = true,
+									},
+								},
+								["power"] = "MANA:10922",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 6,
+						},
+						["pick_pocket"] = {
+							"money:32", -- [1]
+							"8952:1", -- [2]
+							"3928:1", -- [3]
+							"money:36", -- [4]
+							"money:36", -- [5]
+							"money:87", -- [6]
+							"money:68", -- [7]
+							"money:19", -- [8]
+							"16885:1", -- [9]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9237"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:528:542"] = true,
+										["1:524:548"] = true,
+									},
+								},
+								["max_health"] = 27470,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 1,
+						},
+						["pick_pocket"] = {
+							"money:68", -- [1]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9239"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 7779,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["2:594:592"] = true,
+										["2:556:694"] = true,
+										["2:584:578"] = true,
+										["2:556:704"] = true,
+										["2:578:580"] = true,
+										["2:592:584"] = true,
+									},
+								},
+								["power"] = "MANA:2289",
+							},
+							["level_57"] = {
+								["max_health"] = 7689,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:632:578"] = true,
+										["2:522:606"] = true,
+										["2:532:514"] = true,
+										["2:556:548"] = true,
+										["2:538:514"] = true,
+										["2:562:552"] = true,
+										["2:562:606"] = true,
+										["3:632:584"] = true,
+									},
+								},
+								["power"] = "MANA:2241",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 6,
+						},
+						["pick_pocket"] = {
+							"money:46", -- [1]
+							"money:60", -- [2]
+							"money:31", -- [3]
+							"money:33", -- [4]
+							"8952:1", -- [5]
+							"8950:1", -- [6]
+							"money:85", -- [7]
+							"money:50", -- [8]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9736"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_60"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["5:528:862"] = true,
+										["5:536:862"] = true,
+									},
+								},
+								["max_health"] = 58740,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 1,
+						},
+						["pick_pocket"] = {
+							"money:69", -- [1]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9241"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:528:606"] = true,
+										["1:526:600"] = true,
+										["1:526:618"] = true,
+										["1:638:546"] = true,
+									},
+								},
+								["max_health"] = 7779,
+							},
+							["level_57"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:602:586"] = true,
+										["1:648:564"] = true,
+										["1:644:556"] = true,
+										["1:522:620"] = true,
+									},
+								},
+								["max_health"] = 7689,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 5,
+						},
+						["pick_pocket"] = {
+							"money:17", -- [1]
+							"money:72", -- [2]
+							"money:31", -- [3]
+							"money:75", -- [4]
+							"money:82", -- [5]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9262"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 6222,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:478:558"] = true,
+										["1:560:702"] = true,
+										["1:560:708"] = true,
+										["1:518:646"] = true,
+										["1:558:714"] = true,
+										["1:560:694"] = true,
+										["1:504:680"] = true,
+										["1:472:558"] = true,
+										["1:490:590"] = true,
+										["1:476:630"] = true,
+										["1:482:564"] = true,
+										["1:474:624"] = true,
+									},
+								},
+								["power"] = "MANA:10922",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 7,
+						},
+						["pick_pocket"] = {
+							"money:36", -- [1]
+							"money:53", -- [2]
+							"money:65", -- [3]
+							"money:89", -- [4]
+							"16885:1", -- [5]
+							"money:19", -- [6]
+							"money:64", -- [7]
+							"money:73", -- [8]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9236"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["max_health"] = 68675,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["2:548:720"] = true,
+										["2:554:720"] = true,
+									},
+								},
+								["power"] = "MANA:4738",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 1,
+						},
+						["pick_pocket"] = {
+							"money:56", -- [1]
+							"16885:1", -- [2]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["FEMALE"] = true,
+				},
+			},
+			["9268"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["6:600:644"] = true,
+										["1:518:576"] = true,
+										["1:520:568"] = true,
+										["6:588:642"] = true,
+										["1:522:586"] = true,
+										["6:594:642"] = true,
+									},
+								},
+								["max_health"] = 7779,
+							},
+							["level_57"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["6:562:638"] = true,
+										["1:604:584"] = true,
+										["1:580:572"] = true,
+										["1:586:574"] = true,
+										["6:556:620"] = true,
+										["6:558:614"] = true,
+										["6:556:628"] = true,
+									},
+								},
+								["max_health"] = 7689,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 4,
+						},
+						["pick_pocket"] = {
+							"money:44", -- [1]
+							"money:77", -- [2]
+							"money:80", -- [3]
+							"money:91", -- [4]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9265"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 7779,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["2:556:694"] = true,
+									},
+								},
+								["power"] = "MANA:2289",
+							},
+							["level_57"] = {
+								["max_health"] = 7689,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:550:566"] = true,
+										["1:662:644"] = true,
+										["1:556:558"] = true,
+										["1:662:636"] = true,
+									},
+								},
+								["power"] = "MANA:2241",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 3,
+						},
+						["pick_pocket"] = {
+							"money:91", -- [1]
+							"money:42", -- [2]
+							"money:58", -- [3]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9263"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 6222,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:588:756"] = true,
+										["1:574:778"] = true,
+									},
+								},
+								["power"] = "MANA:10922",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 2,
+						},
+						["pick_pocket"] = {
+							"money:34", -- [1]
+							"money:64", -- [2]
+							"16885:1", -- [3]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9693"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["max_health"] = 6594,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["5:398:722"] = true,
+										["5:430:794"] = true,
+										["5:556:866"] = true,
+										["5:408:718"] = true,
+										["6:598:652"] = true,
+										["6:600:644"] = true,
+										["5:400:716"] = true,
+										["6:558:614"] = true,
+										["6:592:652"] = true,
+										["5:430:780"] = true,
+										["5:390:612"] = true,
+										["5:342:714"] = true,
+										["5:430:788"] = true,
+									},
+								},
+								["power"] = "MANA:11196",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 6,
+						},
+						["pick_pocket"] = {
+							"money:19", -- [1]
+							"money:35", -- [2]
+							"money:44", -- [3]
+							"16885:1", -- [4]
+							"money:21", -- [5]
+							"money:42", -- [6]
+							"money:22", -- [7]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9259"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["1:518:656"] = true,
+										["1:474:558"] = true,
+										["1:500:680"] = true,
+										["1:476:544"] = true,
+										["1:466:618"] = true,
+										["1:490:590"] = true,
+										["1:498:652"] = true,
+										["1:496:646"] = true,
+										["1:526:660"] = true,
+										["1:490:670"] = true,
+										["1:558:714"] = true,
+										["1:564:690"] = true,
+										["1:482:542"] = true,
+										["1:484:598"] = true,
+										["1:532:676"] = true,
+										["1:532:670"] = true,
+										["1:470:624"] = true,
+										["1:526:668"] = true,
+										["1:494:678"] = true,
+										["1:518:646"] = true,
+										["1:556:688"] = true,
+										["1:492:574"] = true,
+										["1:480:552"] = true,
+									},
+								},
+								["max_health"] = 7779,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 10,
+						},
+						["pick_pocket"] = {
+							"money:22", -- [1]
+							"money:38", -- [2]
+							"money:37", -- [3]
+							"money:53", -- [4]
+							"money:28", -- [5]
+							"money:57", -- [6]
+							"5428:1", -- [7]
+							"8950:1", -- [8]
+							"money:75", -- [9]
+							"money:64", -- [10]
+							"8950:1", -- [11]
+							"money:35", -- [12]
+							"money:27", -- [13]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9199"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:520:582"] = true,
+										["3:576:578"] = true,
+										["3:512:582"] = true,
+										["3:570:578"] = true,
+									},
+								},
+								["max_health"] = 10372,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 3,
+						},
+						["pick_pocket"] = {
+							"money:64", -- [1]
+							"money:44", -- [2]
+							"money:45", -- [3]
+							"5428:1", -- [4]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9717"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["max_health"] = 6594,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["5:528:816"] = true,
+										["5:360:682"] = true,
+										["5:528:802"] = true,
+										["5:528:858"] = true,
+										["5:528:810"] = true,
+										["5:400:674"] = true,
+										["5:362:676"] = true,
+										["5:528:822"] = true,
+										["5:528:850"] = true,
+									},
+								},
+								["power"] = "MANA:11196",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 4,
+						},
+						["pick_pocket"] = {
+							"money:27", -- [1]
+							"8952:1", -- [2]
+							"money:53", -- [3]
+							"money:71", -- [4]
+							"money:45", -- [5]
+							"16885:1", -- [6]
+						},
+					},
+				},
+				["class"] = "MAGE",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+			["9692"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_59"] = {
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["5:386:606"] = true,
+										["5:434:800"] = true,
+										["5:398:664"] = true,
+										["6:548:604"] = true,
+										["6:556:612"] = true,
+										["6:554:606"] = true,
+										["5:520:798"] = true,
+										["5:428:798"] = true,
+										["5:388:612"] = true,
+										["5:390:664"] = true,
+										["5:380:600"] = true,
+										["5:526:798"] = true,
+									},
+								},
+								["max_health"] = 8241,
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 4,
+						},
+						["pick_pocket"] = {
+							"money:94", -- [1]
+							"money:34", -- [2]
+							"money:52", -- [3]
+							"money:60", -- [4]
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+					["FEMALE"] = true,
+				},
+			},
+			["9197"] = {
+				["reaction"] = "81:Alliance:HOSTILE",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_58"] = {
+								["max_health"] = 10372,
+								["locations"] = {
+									["Hall of Blackhand:721"] = {
+										["3:466:656"] = true,
+										["4:446:554"] = true,
+										["4:432:576"] = true,
+										["4:438:572"] = true,
+										["4:438:564"] = true,
+										["3:462:646"] = true,
+										["4:440:558"] = true,
+									},
+								},
+								["power"] = "MANA:11445",
+							},
+						},
+						["loot_counts"] = {
+							["pick_pocket"] = 3,
+						},
+						["pick_pocket"] = {
+							"money:21", -- [1]
+							"money:61", -- [2]
+							"money:52", -- [3]
+							"8950:1", -- [4]
+						},
+					},
+				},
+				["class"] = "PALADIN",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+		},
+		["items"] = {
+			[16885] = {
+				["instance_difficulty_id"] = 1,
+				["seen_bonuses"] = {
+					["0"] = true,
+				},
+				["unique_id"] = 0,
+			},
+			[113700] = {
+				["instance_difficulty_id"] = 1,
+				["seen_bonuses"] = {
+					["0"] = true,
+				},
+				["durability"] = 85,
+				["unique_id"] = 0,
+			},
+			[48663] = {
+				["durability"] = 110,
+			},
+			[50315] = {
+				["durability"] = 80,
+			},
+			[50087] = {
+				["durability"] = 165,
+			},
+			[55780] = {
+				["instance_difficulty_id"] = 1,
+				["seen_bonuses"] = {
+					["0"] = true,
+				},
+				["unique_id"] = 0,
+			},
+			[35613] = {
+				["durability"] = 50,
+			},
+			[113706] = {
+				["instance_difficulty_id"] = 1,
+				["seen_bonuses"] = {
+					["0"] = true,
+				},
+				["durability"] = 50,
+				["unique_id"] = 0,
+			},
+			[46106] = {
+				["durability"] = 16,
+			},
+			[44397] = {
+				["durability"] = 50,
+			},
+			[55250] = {
+				["instance_difficulty_id"] = 1,
+				["seen_bonuses"] = {
+					["0"] = true,
+				},
+				["unique_id"] = 0,
+			},
+			[55273] = {
+				["instance_difficulty_id"] = 1,
+				["seen_bonuses"] = {
+					["0"] = true,
+				},
+				["durability"] = 100,
+				["unique_id"] = 0,
+			},
+			[55790] = {
+				["durability"] = 65,
+			},
+			[43172] = {
+				["durability"] = 65,
+			},
+		},
+	},
+}

@@ -1,0 +1,48 @@
+VER 3 0100000000000005 "Haunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Haunt
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Dark Soul
+/use 13
+/use 14
+/run UIErrorsFrame:Clear();
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Haunt
+END
+VER 3 0100000000000004 "HStone" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod] Create Healthstone; Create Soulwell
+END
+VER 3 0100000000000002 "Imps" "INV_MISC_QUESTIONMARK"
+#showtooltip Imp Swarm(Glyph)
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Dark Soul
+/use 13
+/use 14
+/run UIErrorsFrame:Clear();
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Imp Swarm(Glyph)
+END
+VER 3 0100000000000001 "Morph" "INV_MISC_QUESTIONMARK"
+#showtooltip Metamorphosis
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast [noform] Dark Soul
+/use 13
+/use 14
+/run UIErrorsFrame:Clear();
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Metamorphosis
+END
+VER 3 0100000000000003 "SFire" "INV_MISC_QUESTIONMARK"
+#showtooltip Soul Fire
+/run sfx=GetCVar("Sound_EnableSFX");
+/console Sound_EnableSFX 0
+/cast Dark Soul
+/use 13
+/use 14
+/run UIErrorsFrame:Clear();
+/run SetCVar("Sound_EnableSFX",sfx);
+/cast Soul Fire
+END

@@ -6,9 +6,11 @@ SkadaDB = {
 	},
 	["hasUpgraded"] = true,
 	["profileKeys"] = {
+		["Denisof - Frostmourne"] = "Default",
 		["Cervus - Frostmourne"] = "Default",
 		["Shantou - Frostmourne"] = "Default",
-		["Denisof - Frostmourne"] = "Default",
+		["Corsheth - Barthilas"] = "Default",
+		["Corsheth - Frostmourne"] = "Default",
 		["Hoffryn - Frostmourne"] = "Default",
 		["Vocah - Frostmourne"] = "Default",
 		["Gachnar - Frostmourne"] = "Default",

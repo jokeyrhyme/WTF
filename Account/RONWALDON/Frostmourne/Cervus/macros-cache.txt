@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Travel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [flyable] n
+END

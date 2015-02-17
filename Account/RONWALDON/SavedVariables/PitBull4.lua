@@ -112,6 +112,8 @@ PitBull4DB = {
 				},
 			},
 		},
+		["HostilityFader"] = {
+		},
 		["Totems"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -122,14 +124,6 @@ PitBull4DB = {
 					},
 				},
 			},
-		},
-		["Portrait"] = {
-		},
-		["RaidTargetIcon"] = {
-		},
-		["Eclipse"] = {
-		},
-		["HostilityFader"] = {
 		},
 		["LuaTexts"] = {
 			["profiles"] = {
@@ -283,6 +277,7 @@ PitBull4DB = {
 									["attach_to"] = "DruidManaBar",
 								},
 								["Lua:Demonic fury"] = {
+									["enabled"] = false,
 									["exists"] = true,
 									["events"] = {
 										["UNIT_MAXPOWER"] = true,
@@ -466,6 +461,27 @@ PitBull4DB = {
 				},
 			},
 		},
+		["Portrait"] = {
+		},
+		["ExperienceBar"] = {
+		},
+		["RaidTargetIcon"] = {
+		},
+		["ShadowOrbs"] = {
+		},
+		["CombatIcon"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Secondary"] = {
+							["position"] = 1.00001,
+						},
+					},
+				},
+			},
+		},
+		["ReputationBar"] = {
+		},
 		["CastBar"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -482,20 +498,20 @@ PitBull4DB = {
 		},
 		["BurningEmbers"] = {
 		},
-		["CombatIcon"] = {
+		["Background"] = {
+		},
+		["Aura"] = {
+		},
+		["RestIcon"] = {
 			["profiles"] = {
 				["Default"] = {
 					["layouts"] = {
 						["Secondary"] = {
-							["position"] = 1.00001,
+							["enabled"] = false,
 						},
 					},
 				},
 			},
-		},
-		["Aura"] = {
-		},
-		["Runes"] = {
 		},
 		["DruidManaBar"] = {
 			["profiles"] = {
@@ -523,16 +539,7 @@ PitBull4DB = {
 				},
 			},
 		},
-		["RestIcon"] = {
-			["profiles"] = {
-				["Default"] = {
-					["layouts"] = {
-						["Secondary"] = {
-							["enabled"] = false,
-						},
-					},
-				},
-			},
+		["Runes"] = {
 		},
 		["Highlight"] = {
 		},
@@ -549,6 +556,8 @@ PitBull4DB = {
 					},
 				},
 			},
+		},
+		["CombatFader"] = {
 		},
 		["PvPIcon"] = {
 			["profiles"] = {
@@ -574,17 +583,6 @@ PitBull4DB = {
 				},
 			},
 		},
-		["VoiceIcon"] = {
-			["profiles"] = {
-				["Default"] = {
-					["layouts"] = {
-						["Secondary"] = {
-							["enabled"] = false,
-						},
-					},
-				},
-			},
-		},
 		["VisualHeal"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -596,9 +594,30 @@ PitBull4DB = {
 				},
 			},
 		},
-		["CombatFader"] = {
+		["VoiceIcon"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Secondary"] = {
+							["enabled"] = false,
+						},
+					},
+				},
+			},
 		},
 		["DemonicFury"] = {
+			["profiles"] = {
+				["Default"] = {
+					["layouts"] = {
+						["Normal"] = {
+							["side"] = "right",
+						},
+						["Secondary"] = {
+							["enabled"] = false,
+						},
+					},
+				},
+			},
 		},
 		["BattlePet"] = {
 			["profiles"] = {
@@ -663,20 +682,22 @@ PitBull4DB = {
 				},
 			},
 		},
-		["Background"] = {
+		["Sounds"] = {
+		},
+		["Eclipse"] = {
 		},
 		["CastBarLatency"] = {
-		},
-		["ShadowOrbs"] = {
 		},
 	},
 	["global"] = {
 		["config_version"] = 2,
 	},
 	["profileKeys"] = {
+		["Denisof - Frostmourne"] = "Default",
 		["Cervus - Frostmourne"] = "Default",
 		["Shantou - Frostmourne"] = "Default",
-		["Denisof - Frostmourne"] = "Default",
+		["Corsheth - Barthilas"] = "Default",
+		["Corsheth - Frostmourne"] = "Default",
 		["Hoffryn - Frostmourne"] = "Default",
 		["Vocah - Frostmourne"] = "Default",
 		["Gachnar - Frostmourne"] = "Default",
@@ -718,12 +739,12 @@ PitBull4DB = {
 				["targettarget"] = {
 					["horizontal_mirror"] = true,
 					["layout"] = "Secondary",
-					["position_y"] = -130,
+					["position_y"] = -250,
 					["position_x"] = 367,
 				},
 				["player"] = {
 					["position_x"] = -192.207214355469,
-					["position_y"] = -130,
+					["position_y"] = -250,
 				},
 				["focus"] = {
 					["position_x"] = 14.762939453125,
@@ -732,12 +753,12 @@ PitBull4DB = {
 				},
 				["target"] = {
 					["horizontal_mirror"] = true,
-					["position_y"] = -130,
+					["position_y"] = -250,
 					["position_x"] = 192,
 				},
 				["pet"] = {
 					["position_x"] = -367.207275390625,
-					["position_y"] = -130,
+					["position_y"] = -250,
 					["layout"] = "Secondary",
 				},
 				["focustargettarget"] = {

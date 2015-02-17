@@ -115,11 +115,6 @@ AmrDb = {
 	["IconInfo"] = {
 	},
 	["Professions"] = {
-		["Cooking"] = 373,
-		["Skinning"] = 450,
-		["Fishing"] = 31,
-		["Mining"] = 450,
-		["First Aid"] = 450,
 	},
 	["RealmName"] = "Frostmourne",
 	["Class"] = "DRUID",

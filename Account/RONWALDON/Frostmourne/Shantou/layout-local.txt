@@ -1,4 +1,11 @@
 Version: 1
+Frame: LootHistoryFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -405
+Y: -6
+W: 210
+H: 175
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: RIGHT
